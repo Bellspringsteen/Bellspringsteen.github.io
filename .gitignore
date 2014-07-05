@@ -4,3 +4,6 @@
 # Use wildcards as well
 ./_site/*
 
+_site/*
+
+*.DS_Store
