@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: Step 2- Input and Output
+title: Step 2 of HybridV2- Input and Output
 tags:
 - hybrid
 - v2 hybrid
@@ -15,7 +15,7 @@ Electric throttle are available from a variety of sites, mostly made for electri
 <br>
 
 <div style="text-align:center"><img src ="../../img/EletricThrottle.jpeg" /> <br> <b>Electric Throttle</b></div>
-
+<br>
   The throttle is the main input. The other two are a power switch, mounted next to the bikes lock, which turns on and off the hybrid system and a bypass switch on the resistor across the main power contactor. The bypass switch is inline with a resistor which loads the electric system controller across the contactor, without the switch the resistor will discharge the capacitor bank over about a week.
 
 <br>

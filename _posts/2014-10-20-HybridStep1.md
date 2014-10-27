@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: Step 1- Idea
+title: Step 1 of HybridV2- Idea
 tags:
 - hybrid
 - v2 hybrid
