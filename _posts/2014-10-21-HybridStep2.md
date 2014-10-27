@@ -13,13 +13,14 @@ However, instead of a usual vehicle in which the throttle corresponds to how muc
 Electric throttle are available from a variety of sites, mostly made for electric bicycles/scooters etc. When choosing, your options seem to be 0-5V potentiometer and hall effect throttles. An earlier iteration of the hybrid used a potentiometer input, but as is cautioned elsewhere on the internet, the throttle wore out quickly and soon developed some terrifying inconsistencies which made riding interesting. That seems to be the reason why most of the electronic throttles are hall effect sensors.
 
 ![Electric Throttle](../../img/EletricThrottle.jpeg)
-###Electric Throttle
+
+#####Electric Throttle
 
   The throttle is the main input. The other two are a power switch, mounted next to the bikes lock, which turns on and off the hybrid system and a bypass switch on the resistor across the main power contactor. The bypass switch is inline with a resistor which loads the electric system controller across the contactor, without the switch the resistor will discharge the capacitor bank over about a week.
 
 ##Output
 
-	Besides the obvious output of the wheels spinning and propelling the bike down the road, the other outputs from the hybrid system are two meters showing the voltage of the capacitor bank. The first meter is a row of single LEDs which are glued in place above the speedo. The meter functions similarly to a available boost gauge in a arcade racing game, in that it shows you an approximate of how much electric assist you have available. The second output is a cheap analog voltage meter mounted near the right foot, bought from Radio Shack (shocking.) Besides the boost functionality, the other reason to monitor the output is in case something goes wrong and the voltage is allowed to get too high. If the voltage exceeds forty eight volts for the capacitor bank, there will be a mini explosion right under the seat. Not good.
+Besides the obvious output of the wheels spinning and propelling the bike down the road, the other outputs from the hybrid system are two meters showing the voltage of the capacitor bank. The first meter is a row of single LEDs which are glued in place above the speedo. The meter functions similarly to a available boost gauge in a arcade racing game, in that it shows you an approximate of how much electric assist you have available. The second output is a cheap analog voltage meter mounted near the right foot, bought from Radio Shack (shocking.) Besides the boost functionality, the other reason to monitor the output is in case something goes wrong and the voltage is allowed to get too high. If the voltage exceeds forty eight volts for the capacitor bank, there will be a mini explosion right under the seat. Not good.
 
 ![Electric Throttle](../../img/Speedo.png)
-###Voltage Meter above Speedo
+#####Voltage Meter above Speedo

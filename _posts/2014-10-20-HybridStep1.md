@@ -10,7 +10,8 @@ tags:
 
 Hybrid systems increase the efficiency of internal combustion engine vehicles. However, hybrids such as both the series and parallel units currently for sale add significantly to the price as well as weight of the units. In addition, they are currently marketed and created only for high end automobiles. However, the majority of the worlds population is riding around on scooters, motorcycles and bicycles not in high end automobiles yet. In order to create a hybrid for those consumers, the product has to add minimally to the cost and weight of the vehicle. In addition, the fuel efficiency of small engine vehicles is excellent to begin with. The problem is that as consumers become more affluent, they upgrade their engine sizes in order to overcome the lack of acceleration/ carry capacity of the smaller capacity engines. A greater overall efficiency gain will be achieved if a hybrid 50cc scooter for instance could not only be more efficient that a regular 50cc unit but also have greater acceleration so as to satisfy a consumer's demand so that they do not trade up to a 100cc unit.
 
-  To create a hybrid for these consumers, the unit must meet the following
+To create a hybrid for these consumers, the unit must meet the following
+
 * Low Cost
 * Low Weight
 * Improve Acceleration
