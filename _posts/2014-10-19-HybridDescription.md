@@ -24,6 +24,7 @@ The purpose of this project is to create a hybrid for the masses. Focusing on lo
 <br>
 ###How it Works
 <br>
+<iframe width="854" height="510" src="//www.youtube.com/embed/OO_IQZ6Yn74" frameborder="0" allowfullscreen></iframe>
 <br>
 
 View the Steps to Making It
