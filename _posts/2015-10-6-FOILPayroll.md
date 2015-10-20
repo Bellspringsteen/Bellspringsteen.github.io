@@ -20,7 +20,7 @@ Billing Zip Code --     Precinct
 10016  -- 32nd
 10025  -- 32nd
 
-	As you can see, there is no personally identifiable or other information included or required in this request.
+As you can see, there is no personally identifiable or other information included or required in this request.
 
 If the above request is too laborious to collate, perhaps in its stead simply provide the same data but for only officers of the 32nd Precinct.
 
@@ -36,3 +36,62 @@ Thank you for your consideration of this request.
 Sincerely,
 
 Alex Bell
+
+## UPDATE
+
+Eicholtz, Carrie (Payroll) <CEicholtz at payroll.nyc.gov>
+8:35 am (3 days ago)
+
+to me, Roy, Roy, Andrea, Mohamed
+Good Morning Mr. Bell,
+
+This is to acknowledge and respond to your FOIL request received by this office on October 14th via the NYC correspondence website.  OPA is not the custodian of the information sought and after a diligent search of our records, OPA has found no records responsive to your request.
+
+Sincerely,
+
+Carrie Eicholtz
+Agency Attorney/ FOIL Officer
+NYC Office of Payroll Administration
+ceicholtz@payroll.nyc.gov
+
+## UPDATE 2
+
+Hello,
+
+Please see here, https://www.foiamachine.org/requests/416/ . In which the office of NYC payroll provided similar information for city employees. Does the office of NYC Payroll not supply payroll for the New York City Police Department?
+
+## UPDATE 3
+
+Good Morning Mr. Bell,
+
+In response to your inquiry, OPA does not have home address information for members of the NYPD because it is a uniformed agency, unlike the Department of  Education.
+
+Carrie Eicholtz
+Agency Attorney/ FOIL Officer
+NYC Office of Payroll Administration
+212-669-3455 (Phone)
+212-669-4262 (Fax)
+ceicholtz@payroll.nyc.gov
+
+## UPDATE 4
+
+Good Morning Carrie,
+
+Thanks for responding. I am not in City Government, can you explain a little more the distinction of a "Uniformed Agency?" How do police officers get their paychecks if you do not have this information?
+
+I have filed multiple FOIL requests to the NYPD and been completely ignored for months. Do you know of any other city organizations who can provide the same information?
+
+## UPDATE 5
+
+Mr. Bell,
+
+Uniformed agencies employ people who wear uniforms and include, but are not limited to, the Police Department, Probation and the District Attorney’s offices.  OPA processes PD payroll, however the method of distribution is left up to the Department for privacy reasons.  Therefore, OPA does not have home address information for its employees.
+
+Sincerely,
+
+Carrie Eicholtz
+Agency Attorney/ FOIL Officer
+NYC Office of Payroll Administration
+212-669-3455 (Phone)
+212-669-4262 (Fax)
+ceicholtz@payroll.nyc.gov
