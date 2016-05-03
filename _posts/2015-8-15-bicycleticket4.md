@@ -62,7 +62,17 @@ I have no idea what the charge is on this one. The ticket says 904B1 or 404B1. I
 ###The Hearing
 <br>
 
-The hearing is scheduled for 02/12/2016 10:30am
+The hearing was 02/12/2016 at 10:30am.
+
+I showed up this time with my laptop and all the videos queued up and ready to show. As usual, officer was sworn in and asked to state the facts. 
+
+For some reason, someone taught the officers to try to speak as quickly and unintelligibly as possible. So his statement was something to the effect of " .. traveling southbound ... failed to stop ... steady red light ... pursued ... ticketed"
+
+I am not sure if it was the laptop in my hand or what. But the Judge stopped the officer, leafed through a book on her desk, then stated " You didn't say whether the pedestrian light was in working order. Case dismissed"
+
+To be honest, I have no idea what happened. As always the NYPD officer lied and made up a story about the steady red light. I am not sure why the Judge decided to single out the pedestrian light. Perhaps she saw my laptop and knew there would be some kind of video involved.
+
+
 <br>
 
 
