@@ -27,7 +27,10 @@ tags: FOIL
 
 Potentially 3% of NYC downloaded a 311 app, thats higher than I would have thought.
 
- 
+## Source Data
+
+The source data is from a Freedom of Information Law Request (FOIL) made to the New York City DOITT
+
 [see source here](https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/DOITT/NYCAppDownloadNumbers/NYCAppDownloadNumbers_Data.csv)
 
 <br> 
