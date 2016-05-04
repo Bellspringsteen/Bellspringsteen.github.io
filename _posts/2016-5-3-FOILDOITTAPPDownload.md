@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: How many downloads do the NYC iOS and Android apps have?
+title: How many downloads do the NYC iOS and Android apps have
 tags: FOIL
 ---
 
@@ -8,7 +8,7 @@ tags: FOIL
 
 
 | App Name            | Number of Current Device Installs | 
-| ------------------- |:---------------------------------:| 
+| ------------------- | --------------------------------- | 
 | Android NYC311      | 78115                             | 
 | Android NYCBuildings| 8001                              | 
 | Android NYCEvents   | 4252                              | 
@@ -21,6 +21,8 @@ tags: FOIL
 | iOS ReadyNYC        | 4128                              | 
 | iOS NYCRecycles     | 2551                              | 
 | iOS NYCService      | 1600                              | 
+
+
 <br>
 
 Potentially 3% of NYC downloaded a 311 app, thats higher than I would have thought.
