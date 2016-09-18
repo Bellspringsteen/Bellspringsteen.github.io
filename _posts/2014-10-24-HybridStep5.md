@@ -4,6 +4,7 @@ title: Step 5 of HybridV2- Hybrid Control Unit
 tags:
 - hybrid
 - v2 hybrid
+visible: 1
 ---
 
 ##Control Unit

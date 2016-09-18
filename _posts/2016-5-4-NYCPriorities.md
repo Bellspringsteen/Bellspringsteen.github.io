@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: NYC Government Priorities
 tags: FOIL
+visible: 1
 ---
 
 ###There are 5.3 NYC Public School Children to Each Department of Education Employee

@@ -4,6 +4,7 @@ title: Step 3 of HybridV2- Mechanical
 tags:
 - hybrid
 - v2 hybrid
+visible: 1
 ---
 
 ##Electric Movement

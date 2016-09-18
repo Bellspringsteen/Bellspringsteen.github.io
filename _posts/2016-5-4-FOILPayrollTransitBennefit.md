@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Which NYC employees are enrolled in Transit Benefit
 tags: FOIL
+visible: 1
 ---
 
 #Of the 378,205 employees of City Agencies, 14% of are enrolled in Transit Benefit

@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Bicycle Ticket 2, Riding Through A Red Light
 tags: Bicycle-Ticket
+visible: 1
 ---
 
 ###The Scene

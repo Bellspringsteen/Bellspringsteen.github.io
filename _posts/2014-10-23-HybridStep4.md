@@ -4,6 +4,7 @@ title: Step 4 of HybridV2- Electrical
 tags:
 - hybrid
 - v2 hybrid
+visible: 1
 ---
 
 ##Super Capacitors

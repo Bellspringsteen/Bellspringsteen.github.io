@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Wood Bicycle Rack - 1.5 Years In
 tags: Bicycle
+visible: 1
 ---
 
 #Wooden Bicycle Rack

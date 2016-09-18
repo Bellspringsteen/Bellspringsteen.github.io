@@ -3,6 +3,7 @@ layout: portfolio_entry
 title: Alex's Vermeer
 tags:
 - oddball
+visible: 1
 ---
 
 ## Inspiration: Tim's Vermeer

@@ -4,6 +4,7 @@ title: Step 7 of HybridV2- Testing
 tags:
 - hybrid
 - v2 hybrid
+visible: 1
 ---
 
 ##Mounted

@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Bicycle Ticket 1, 50$ for wearing headphones
 tags: Bicycle-Ticket
+visible: 1
 ---
 
 ###The Scene

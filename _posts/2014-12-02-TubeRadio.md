@@ -3,6 +3,7 @@ layout: portfolio_entry
 title: Setchell Carlson Tube Radio
 tags:
 - oddball
+visible: 1
 ---
 
 ## Setchell Carlson Tube Radio: No Bolts or Screws

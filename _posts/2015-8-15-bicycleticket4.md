@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Bicycle Ticket 4, Riding Through Broken Light
 tags: Bicycle-Ticket
+visible: 1
 ---
 
 ###The Scene

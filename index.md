@@ -4,6 +4,7 @@ title: "Labs Bell Blog"
 ---
 
 {% for post in site.posts offset: 0 limit: 500 %}
+{% if post.visible == 1  %}
 <div class="row">
   <div class="span7">
     <div class="row">
@@ -23,4 +24,5 @@ title: "Labs Bell Blog"
 	<hr>
   </div>
 </div>
+  {% endif %}
 {% endfor %}

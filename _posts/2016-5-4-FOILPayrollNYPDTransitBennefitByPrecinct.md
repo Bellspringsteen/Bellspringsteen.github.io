@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Which NYPD Precincts & Divisions have the highest enrollment in Transit Benefit
 tags: FOIL
+visible: 1
 ---
 
 #Of the 3015 NYPD Employees enrolled in Transit Benefit, more than 1/3 are crossing guards. The highest precincts after that are all administrative.

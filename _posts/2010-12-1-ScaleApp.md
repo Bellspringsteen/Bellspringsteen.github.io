@@ -1,6 +1,7 @@
 ---
 layout: portfolio_entry
 title: Scale App, What was it?
+visible: 1
 tags:
 ---
 

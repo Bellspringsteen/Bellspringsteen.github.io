@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: Pen Mover - 28BYJ-48
 tags:
+visible: 1
 ---
 
 ## A Cool 2 Axis Pen Mover Device

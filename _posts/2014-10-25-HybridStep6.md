@@ -4,6 +4,7 @@ title: Step 6 of HybridV2- Software
 tags:
 - hybrid
 - v2 hybrid
+visible: 1
 ---
 
 ##Compiler

@@ -2,6 +2,7 @@
 layout: portfolio_entry
 title: How many downloads do the NYC iOS and Android apps have
 tags: FOIL
+visible: 1
 ---
 
 #The DOITT says that the following are the download numbers for NYC apps
