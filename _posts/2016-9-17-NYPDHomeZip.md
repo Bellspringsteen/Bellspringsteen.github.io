@@ -2,7 +2,7 @@
 layout: portfolio_entry
 title: Where Does the NYPD Live?
 description: Interactive plots for NYPD Home Zip Locations. Click on your home precinct and see where the cops in your neighborhood live.
-twitterimage: /foil/NYPDHomeZip/resources/img/screenshot.png
+twitterimage: http://blog.labsbell.com/foil/NYPDHomeZip/resources/img/screenshot.png
 tags: FOIL
 visible: 0
 ---
