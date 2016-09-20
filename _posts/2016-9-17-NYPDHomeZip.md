@@ -16,8 +16,10 @@ The NYPD Patrol Guide states that officers must "live in one of the city’s fiv
 	* 11% of NYPD officers live in The Bronx 
 	* 10% of NYPD officers live in Staten Island
 	* 4% of NYPD officers live in Manhattan
-* 26% of NYPD officers live in Long Island
-* 13% of NYPD officers live in Upstate NY
+* 26% of NYPD officers live in Long Island (Nassau or Suffolk County)
+* 13% of NYPD officers live in Approved Upstate NY Counties (Rockland,Westchester,Putnam, or Orange County)
+
+Less than 1% live in, I guess, specially approved non-standard counties.
 
 
 The Patrol Guide also states that officers can't live in the same zip code they work in. However, I found that 4% of NYPD officers live and serve in the same zip code.
@@ -52,7 +54,7 @@ In a post on a police [forum](http://forums.officer.com/t152263/) the following 
 
 I suspect that the officers who are listed as living and working in the same zip code have false addresses listed, probably the address of the precinct where they work. (And of course, other officers may also have false addresses listed.) 
 
-If you go by any precinct you will see that the sidewalks, bike lanes, and parks around the precinct are covered with private officers cars and police vehicles. You will also notice that quite a few of these vehicles have non-New York license plates and have notes on the dashboard with badge numbers or other NYPD identifiers.
+If you go by any precinct you will see that the sidewalks, bike lanes, and parks around the precinct are covered with private officers' cars and police vehicles. You will also notice that quite a few of these vehicles have non-New York license plates and have notes on the dashboard with badge numbers or other NYPD identifiers.
 
 ![Alt text](../foil/NYPDHomeZip/resources/img/merged.png)
 
@@ -79,7 +81,7 @@ A step-by-step guide:<br />
 	5. Now you have to serve the papers, which you can’t do yourself. $187.50 <br />
 	6. Then you have to go back to 60 Center Street and file the papers and the receipt of service. <br />
 
-In my case, after a few rounds of calls between the lawyers the NYPD went from "his is ludicrous and will be dismissed" to "k here is what you want."
+In my case, after a few rounds of calls between the lawyers the NYPD went from "This is ludicrous and will be dismissed" to "Ok here is what you want."
 
 And then they sent over the data.
 
@@ -92,5 +94,6 @@ Which is humorous because the data shows otherwise.
 
 [Here](https://github.com/Bellspringsteen/other.nyc/tree/master/NYCGOV/NYPD/NypdOfficersHomeZip) is my repository with the code I used to turn the data into maps. Feel free to point out errors and make your own maps.
 
-FYI Someone in the 45 precinct lives in 12253, that doesnt seem to exist
+FYI Someone in the 45 precinct lives in 12253, that doesn't seem to exist.
+
 Also someone is driving 2 hours each way from East Stroudsburg, PA 18302 to the 14th Precinct. 
