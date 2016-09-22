@@ -107,9 +107,9 @@ Also someone is driving 2 hours each way from East Stroudsburg, PA 18302 to the 
 
 ## Questions/Suggestions/History
 
-	"Every matter, and thing, that relates to the city ought to be transacted therein and the persons to whose care they are committed [should be] Residents," [wrote George Washington in 1796](https://books.google.com/books?id=o9kRAAAAYAAJ&lpg=PA179&ots=wSJrUDImHe&dq=Every%20matter%2C%20and%20thing%2C%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&pg=PA179#v=onepage&q=Every%20matter,%20and%20thing,%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&f=false).
+"Every matter, and thing, that relates to the city ought to be transacted therein and the persons to whose care they are committed [should be] Residents," [wrote George Washington in 1796](https://books.google.com/books?id=o9kRAAAAYAAJ&lpg=PA179&ots=wSJrUDImHe&dq=Every%20matter%2C%20and%20thing%2C%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&pg=PA179#v=onepage&q=Every%20matter,%20and%20thing,%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&f=false).
 	
-	Do local officers make better officers? 
+Do local officers make better officers? 
 
-	If the NYPD created a non-personally identifiable identifier for each officer and then released aggregate data on firearm discharges, home zip, sex, race, and civil rights complaints we could potential answer these questions. Time for another FOIL request.
+If the NYPD created a non-personally identifiable identifier for each officer and then released aggregate data on firearm discharges, home zip, sex, race, and civil rights complaints we could potential answer these questions. Time for another FOIL request.
 
