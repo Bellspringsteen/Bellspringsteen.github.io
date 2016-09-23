@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
-title: Where Do NYPD Officers Live?
-description: Interactive plots for NYPD Home Zip Locations. Click on your home precinct and see where the cops in your neighborhood live.
+title: Your neighborhood NYPD officer isn't likely to be your neighbor
+description: Interactive plots for NYPD Officer residence Zip Locations. Click on your home precinct and see where the cops in your neighborhood reside.
 twitterimage: http://blog.labsbell.com/foil/NYPDHomeZip/resources/img/screenshot.png
 tags: FOIL
 visible: 0
@@ -72,7 +72,7 @@ First I filed a FOIL request (see [here](https://github.com/Bellspringsteen/othe
 
 Side note: I have filed many FOIL requests with the NYPD, and when I receive a response, it is very difficult to track which of my requests the response relates to. You might think that in rejecting your claim they would tell you which request they were rejecting. They don’t. You might also think that if you supplied your own file number than it would be listed in "Your File #" section. You would be wrong on both accounts. The NYPD doesn’t tell you what it’s rejecting. It gives the same canned rejection to every request, no matter how small. It doesn't take emails. You can call but no one will ever pick up or call you back.
 
-## How to sue the NYPD.
+## When a foil request doesn't work
 
 A step-by-step guide:<br />
 	1. Get a lawyer. (I leaned on family for this one.) <br />
