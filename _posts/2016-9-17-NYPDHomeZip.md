@@ -4,7 +4,7 @@ title: Your neighborhood NYPD officer isn't likely to be your neighbor
 description: Interactive plots for NYPD Officer residence Zip Locations. Click on your home precinct and see where the cops in your neighborhood reside.
 twitterimage: http://blog.labsbell.com/foil/NYPDHomeZip/resources/img/screenshot.png
 tags: FOIL
-visible: 0
+visible: 1
 ---
 
 
