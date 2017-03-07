@@ -113,3 +113,9 @@ Do local officers make better officers?
 
 If the NYPD created a non-personally identifiable identifier for each officer and then released aggregate data on firearm discharges, home zip, sex, race, and civil rights complaints we could potential answer these questions. Time for another FOIL request.
 
+PRESS:
+
+* http://www.villagevoice.com/news/interactive-map-shows-where-nypd-officers-live-9249670
+* https://www.nytimes.com/2016/10/24/nyregion/new-york-today-how-to-build-a-subway-tunnel-boring-machines-second-avenue-subway.html
+
+
