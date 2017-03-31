@@ -2,7 +2,7 @@
 layout: portfolio_entry
 title: Race, Income and Bicycle Tickets
 tags: FOIL
-visible: 0
+visible: 1
 ---
 
 How does Race and/or Income factor into who gets Bicycle Tickets in NYC?
@@ -19,7 +19,7 @@ The Biking Public did a great investigation into the racial and economic ticketi
 
 ## Trying to get a better handle on Income and Bicycle Tickets
 
-I received a FOIL list of all bicycle violations from 2015-2016, see [here](https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/FOIL2015-1624_NYCBikeConvs%20(2)-with%20dismissals%20(1).xlsx)
+I received a FOIL list of all bicycle violations from 2015-2016, see [here](http://bit.ly/2ns28B4)
 I randomly selected 20 Tickets from the list and filed a foil request with the DMV for a copy of the tickets. This cost 220$.  See response [here](https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/DMV_Bike_Ticket_Data.pdf) and data [here](https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/Random%20Number%20Tickets.csv)
 
 
