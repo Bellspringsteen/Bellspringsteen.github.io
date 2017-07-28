@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html class="fuelux" lang="en">
   <head>
+  
+  {% include slider_styles.html %}
+
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,6 +31,7 @@
 	  <meta name="twitter:image:src" content="{{ site.url }}/path/to/image/logo.png">
 	{% endif %}
 	
+
 
     <link href="/css/fuelux.css" rel="stylesheet" />
 	<link href="/css/fuelux-responsive.css" rel="stylesheet" />
@@ -63,6 +67,8 @@
 </script>
   </head>
   <body data-spy="scroll" data-target=".subnav" data-offset="50">
+  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+
 	{% include navigation.html %}
 	<div class="container">
 		<div class="marketing">
@@ -87,7 +93,11 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 
+
 	</script>
+
+	    {% include slider_scripts.html %}
+
 
   </body>
 </html>

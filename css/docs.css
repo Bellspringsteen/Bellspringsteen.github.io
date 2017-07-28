@@ -17,6 +17,11 @@ body {
   background-position: 0 40px;
 }
 
+iframe {
+    margin: 0 auto;
+    display:block;
+}
+
 /* Tweak navbar brand link to be super sleek
 -------------------------------------------------- */
 .navbar-fixed-top .brand {
@@ -804,28 +809,25 @@ a.social {
 }
 
 a.social.github {
-  background: url(/img/social_icons.png) -68px 0px no-repeat;
-}
-
-a.social.github:hover {
-  background: url(/img/social_icons.png) -68px -34px no-repeat;
+  background: url(/img/github.png) 0px 0px no-repeat;
 }
 
 a.social.linkedin {
-  background: url(/img/social_icons.png) -102px 0px no-repeat;
+  background: url(/img/linkedin.png) 0px 0px no-repeat;
 }
 
-a.social.linkedin:hover {
-  background: url(/img/social_icons.png) -102px -34px no-repeat;
+a.social.youtube {
+  background: url(/img/youtube.png) no-repeat;
 }
 
 a.social.twitter {
-  background: url(/img/social_icons.png) 0 0px no-repeat;
+  background: url(/img/twitter.png) no-repeat;
 }
 
-a.social.twitter:hover {
-  background: url(/img/social_icons.png) 0px -34px no-repeat;
+a.social.instagram {
+  background: url(/img/instagram.png) no-repeat;
 }
+
 
 a.social.rss {
   background: url(/img/social_icons.png) -34px 0px no-repeat;

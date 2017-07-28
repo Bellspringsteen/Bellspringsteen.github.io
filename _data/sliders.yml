@@ -1,0 +1,28 @@
+- selector: sliderConcreteCanvas
+  bullets: false
+  captions: true
+  images:
+    - src: /img/ConcreteCanvas1.jpg
+      alt: Up close with the Concrete Canvas.
+    - src: /img/ConcreteCanvas2.jpg
+      alt: Sew the ends together to make a ring.
+    - src: /img/ConcreteCanvas3.jpg
+      alt: The ring after submerging in water for 1 day.
+    - src: /img/ConcreteCanvas5.jpg
+      alt: Draping the canvas over a glass jar. 
+    - src: /img/ConcreteCanvas6.jpg
+      alt: The finished jar vase. 
+    - src: /img/ConcreteCanvas7.jpg
+      alt: Sewed the cloth into a box and then submerged. 
+  settings:
+    height: 600
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
