@@ -2,7 +2,7 @@
 layout: portfolio_entry
 title: UPS Department of Finance FOIL Request
 tags: UPS
-visible: 0
+visible: 1
 ---
 
 In the hunt to get even more data showing the degree to which UPS is an extraordinary blocker of bike lanes in NYC, I filed the below FOIL request to the NYC Finance Department. 
