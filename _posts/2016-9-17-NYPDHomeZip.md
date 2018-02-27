@@ -33,18 +33,18 @@ The Patrol Guide also states that officers can't live in the same zip code they 
 
 ### Map of Zip Codes with Number of Officers in Each
 
-<embed src="http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html" width="1200" height="600" style="border:1px solid">
+<embed src="https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html" width="1200" height="600" style="border:1px solid">
 
-Embed with `<embed src="http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html">`
+Embed with `<embed src="https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html">`
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ### Map of Precincts (Click Precinct to see stats)
 
-<embed src="http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html" width="1200" height="600" style="border:1px solid">
+<embed src="https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html" width="1200" height="600" style="border:1px solid">
 
-Embed with `<embed src="http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html">`
+Embed with `<embed src="https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html">`
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
