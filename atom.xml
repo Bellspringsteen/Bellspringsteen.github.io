@@ -1,33 +1,1367 @@
----
-layout: nil
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Labs Bell Blog</title>
  <link href="http://Bellspringsteen.github.com/atom.xml" rel="self"/>
  <link href="http://Bellspringsteen.github.com/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <updated>2018-03-12T15:26:20-04:00</updated>
  <id>http://Bellspringsteen.github.com</id>
  <author>
    <name>Labs Bell Blog</name>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://Bellspringsteen.github.com{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://Bellspringsteen.github.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>UPS extraordinary violator</title>
+   <link href="http://Bellspringsteen.github.com/blog/UPSFinanceFoilTake2"/>
+   <updated>2018-02-09T00:00:00-05:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/UPSFinanceFoilTake2</id>
+   <content type="html">&lt;p&gt;I believe from experience that UPS is a extraordinary blocker of bicycle lanes around NYC. Hence, my lawsuits against the company. Here as some other data points.&lt;/p&gt;
+
+&lt;p&gt;The City of New York releases parking violations and any information is has on vehicles it tickets for blocking a bike lane. Unfortunately, they don’t list the companies that owned the vehicles. &lt;a href=&quot;http://blog.labsbell.com/blog/UPSFinanceFoil&quot;&gt;I sent a FOIL request to NYC for them to cross reference the license plate numbers to company ownership but they stated the cost would be over two thousand dollars.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, maybe we can use one extra piece of data to determine the information without having to pay. UPS trucks are brown. They are all brown. They are also distinctively brown. They are also uniquely brown. Very few other commercial vehicles in NYC would be classified as brown. What can brown do for you?&lt;/p&gt;
+
+&lt;p&gt;By going to the NYC Data for &lt;a href=&quot;https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2014-August-/jt7v-77mi/data&quot;&gt;2014 tickets&lt;/a&gt; we can query for different ticket types.&lt;/p&gt;
+
+&lt;p&gt;Violation Type 9 are tickets for blocking the bike lane.&lt;/p&gt;
+
+&lt;p&gt;11,041 tickets given to BROWN commercial vehicles for blocking the bike laneIn 2014, there were 11041 tickets given in NYC to BROWN commercial vehicles for blocking the bike lane. 
+40,547 tickets given to commercial vehicles of any COLOR for blocking the bike lane. 
+2,022,409 tickets given to commercial vehicles of any COLOR for any violations. 
+271,154 tickets given to BROWN commercial vehicles for any violations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2016/kiv2-tbus/data#change&quot;&gt;Data is here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;BROWN Commercial vehicles, aka UPS, represent 13% of all traffic violations. 
+But UPS BROWN Commercial vehicles represent 27% of all bicycle lane parking violations. 
+UPS is an extraordinary blockers of bike lanes in NYC. UPS blocks bike lanes at a rate that is at least double any other company.&lt;/p&gt;
+
+&lt;p&gt;And before you complain, “not all commercial brown vehicles are UPS trucks.” Yes, yes they are mostly. Show me a picture of another commercial vehicle parked in NYC that is brown with its license plate and then show me where it shows up in the database as BROWN. They are pretty much all UPS Trucks.&lt;/p&gt;
+
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>UPS Class Action</title>
+   <link href="http://Bellspringsteen.github.com/blog/UPSRoundClassAction"/>
+   <updated>2017-08-05T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/UPSRoundClassAction</id>
+   <content type="html">&lt;h2 id=&quot;very-short-story&quot;&gt;Very Short Story&lt;/h2&gt;
 
- <url><loc>{{ site.url }}/blog/</loc></url>
+&lt;p&gt;We are filing a Class Action lawsuit against UPS for parking in the bicycle lane. Visit UPSHatesCyclists.com to join. Tell your NYC bicycle friends.&lt;/p&gt;
+
+&lt;h2 id=&quot;short-story&quot;&gt;Short Story&lt;/h2&gt;
+
+&lt;p&gt;UPS parks in bicycle lanes in NYC more than any other single entity in the city.&lt;/p&gt;
+
+&lt;p&gt;The small dollar amount of tickets they receive do no not outweigh the convenience to their operations of free parking.&lt;/p&gt;
+
+&lt;p&gt;Parking in the bike lane forces the 15mph cyclist to merge abruptly into 45mph traffic coming from behind.&lt;/p&gt;
+
+&lt;p&gt;I have called. I have written. I have asked. &lt;a href=&quot;http://blog.labsbell.com/blog/VsUPS&quot;&gt;I have filed a small claims lawsuit&lt;/a&gt;. I have filed a &lt;a href=&quot;http://blog.labsbell.com/blog/UPSRoundStateSupreme&quot;&gt;New York State Supreme court lawsuit.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are getting close, we need NYC cyclists to go to &lt;a href=&quot;UPSHatesCyclists.com&quot;&gt;UPSHatesCyclists.com&lt;/a&gt; and join the lawsuit.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>UPS Department of Finance FOIL Request</title>
+   <link href="http://Bellspringsteen.github.com/blog/UPSFinanceFoil"/>
+   <updated>2017-08-03T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/UPSFinanceFoil</id>
+   <content type="html">&lt;p&gt;In the hunt to get even more data showing the degree to which UPS is an extraordinary blocker of bike lanes in NYC, I filed the below FOIL request to the NYC Finance Department.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The fleet application by the United Parcel Service or any of its subsidiaries to enroll in the NYC Delivery Solutions program&lt;/li&gt;
+  &lt;li&gt;The number of tickets issued to the United Parcel Service or any of its subsidiaries in 2015 in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;The dollar amount of tickets issued as well the final amount paid by the United Parcel Service or any of its subsidiaries in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;The number of tickets given to the United Parcel Service or any of its subsidiaries for violations of NYS Traffic Section 4-08(e)(9) parking in a bicycle lane in 2015 in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;The dollar amount paid by the United Parcel Service or any of its subsidiaries for for violations of NYS Traffic Section 4-08(e)(9) parking in a bicycle lane in 2015 in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;Any documents relating to whether or not violations of NYS Traffic Section 4-08(e)(9) parking in a bicycle lane are accepted for reduced fines as part of the NYC Delivery Solutions Program.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After the customary rejection and appeal, the finance department provided &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/Finance/UPSFOILFinanceResponse.pdf&quot;&gt;this response&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;They are willing to provide data on UPS and non-UPS blocking of the bike lanes. However, they have decided it will cost 2k$. The searches can be accomplished by writing two SQL queries and would take any reasonably competent person 1 hour to retrieve the data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The response also indicated that while the bike lane tickets are supposed to be among a class, along with parking in front of a hydrant, that are non-amenable that they do have their dollar amount reduced for UPS.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We need the 2,002$ required to get the records from the finance department.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>UPS New York State Supreme Court</title>
+   <link href="http://Bellspringsteen.github.com/blog/UPSRoundStateSupreme"/>
+   <updated>2017-08-01T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/UPSRoundStateSupreme</id>
+   <content type="html">&lt;h2 id=&quot;short-story&quot;&gt;Short Story&lt;/h2&gt;
+
+&lt;p&gt;I have an ongoing, now in appeal, case against UPS in State Supreme Court for being an extraordinary blocker of bicycle lanes.&lt;/p&gt;
+
+&lt;h2 id=&quot;long-story&quot;&gt;Long Story&lt;/h2&gt;
+
+&lt;p&gt;In September of 2015 &lt;a href=&quot;http://blog.labsbell.com/blog/VsUPS&quot;&gt;I filed a small claims lawsuit against UPS for blocking the bicycle lanes.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Small claims court is not the venue, i.e. I lost.&lt;/p&gt;
+
+&lt;p&gt;In February of 2016, &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/AlexMorganBellvsUnitedParcelServiceInc.pdf&quot;&gt;I filed this complaint against UPS&lt;/a&gt; in New York State Supreme Court.&lt;/p&gt;
+
+&lt;p&gt;The complaint lays out a public nuisance claim against UPS stating how the harms and ongoing danger to my life caused by UPS trucks intentionally parking in bike lanes. The complaint asks the judge to order UPS to stop the practice.&lt;/p&gt;
+
+&lt;p&gt;In April of 2016, the UPS law firm &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/UPSMotionToDismiss.pdf&quot;&gt;filed a motion to dismiss&lt;/a&gt; which we responded to &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/StateSupremeDismissOposition.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t until November of 2016 that the judge heard the arguments, not in the case, but in regards to the motion to dismiss.&lt;/p&gt;
+
+&lt;p&gt;The judge ruled on April 2017 that the case should be dismissed, see the &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/StateSupremeCourtDecision.pdf&quot;&gt;response here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The judge agreed with that a cause of action was presented in the complaint “Thus, contrary to UPS’s contention, the complaint, which alleges that the manner in which its trucks repeatedly park, stand, idle on public roadways substantially interferes with the exercise of a common right to use designated bicycle lanes, thus injuring the safety or comfort of a considerable number of cyclists, states a cause of action based on public nuisance.”&lt;/p&gt;
+
+&lt;p&gt;The judge ruled “he failed to allege or demonstrate that such conduct has subjected him to inconvenience or potential danger that is different in kind from the inconvenience and potential danger to which thousdans of other cyclists in Manhattan who use the same bicycle lanes are subjected.”&lt;/p&gt;
+
+&lt;p&gt;We have filed an appeal. Stay tuned.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Concrete Canvas is super cool</title>
+   <link href="http://Bellspringsteen.github.com/blog/ConcreteCanvas"/>
+   <updated>2017-07-28T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/ConcreteCanvas</id>
+   <content type="html">&lt;iframe width=&quot;650&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LBHVKFCoYFc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Concrete Canvas is a really interesting material which at its simplest is a plastic cloth that has been impregnated with concrete. You can drape
+the canvas over any form, add water, and have a structure.&lt;/p&gt;
+
+&lt;p&gt;The company Concrete Canvas is based in the U.K. but they have a few US distributors. I was able to get a roll from Milliken shipped to me for 105$. &lt;a href=&quot;http://infrastructure.milliken.com/concretecloth/&quot;&gt;See here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.5 --&gt;
+
+&lt;div id=&quot;sliderConcreteCanvas&quot; style=&quot;width:75%;margin: 0 auto; &quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas1.jpg&quot; title=&quot;&quot; alt=&quot;Up close with the Concrete Canvas.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas2.jpg&quot; title=&quot;&quot; alt=&quot;Sew the ends together to make a ring.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas3.jpg&quot; title=&quot;&quot; alt=&quot;The ring after submerging in water for 1 day.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas5.jpg&quot; title=&quot;&quot; alt=&quot;Draping the canvas over a glass jar.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas6.jpg&quot; title=&quot;&quot; alt=&quot;The finished jar vase.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas7.jpg&quot; title=&quot;&quot; alt=&quot;Sewed the cloth into a box and then submerged.&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It looks like the company has focused on mainly construction applications. But there are a few creative uses of the product out there&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.florian-schmid.com/stitching_concrete.html&quot;&gt;http://www.florian-schmid.com/stitching_concrete.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.concretecanvas.com/concrete-canvas/markets/design/&quot;&gt;http://www.concretecanvas.com/concrete-canvas/markets/design/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why does approximately 1/10th of the NYPD make less than 1,000$ a year?</title>
+   <link href="http://Bellspringsteen.github.com/blog/NYPDPay"/>
+   <updated>2017-06-16T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/NYPDPay</id>
+   <content type="html">&lt;p&gt;I requested from the NYPD the below,&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The number of New York City Police Department employees who were paid between 0 and 1000 dollars in 2015.
+
+As an example, records show the following employees and payroll
+	Supall, Tiffany D	3$
+	Johnsen, Denise L 	3$ 
+	Dejesus, Altagracia	3$
+Or simply confirm that it is possible for a large number of employees to be paid less than 100$.
+
+The average dollar cost in benefits per New York City Police Department employee.
+
+List of benefits such as health care, dental, parking, transit that a
+	* School Crossing Guard 
+	* Police Communications Technician
+	* Motor Vehicle Operator
+receives.
+
+The minimum number of hours or pay an employee must work to receive benefits. 
+
+The number of New York City Police Department employees who worked less than 100 hours in 2015.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I received &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NYPDPay/NYPD_Response.png&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Which stated that:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Responsive to point one in your request, the number of NYPD employees who were paid between 0 and 1,000 dollars in 2015 is 3,101.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;What are the situations that could have someone get less than 1000$ a year?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting fired/quiting X days into the start of the year?&lt;/li&gt;
+  &lt;li&gt;Starting at the NYPD with only X days left in 2015.&lt;/li&gt;
+  &lt;li&gt;Why are so many people paid 7$? http://seethroughny.net/payrolls/&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Race, Income and Bicycle Tickets</title>
+   <link href="http://Bellspringsteen.github.com/blog/BicycleTicketsRaceIncome"/>
+   <updated>2017-03-31T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/BicycleTicketsRaceIncome</id>
+   <content type="html">&lt;p&gt;How does Race and/or Income factor into who gets Bicycle Tickets in NYC?&lt;/p&gt;
+
+&lt;p&gt;Ten years ago it seemed as if the only bicyclists crazy enough to ride in NYC traffic were resturant delivery people, bicycle messengers and very very rarely a commuter. Now there are bicyclist everywhere&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* 350% growth in daily cycling, 1990-2015
+* 80% growth in daily cycling, 2010-2015
+* http://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;With ridership, tickets have increased also. Who is getting ticketed? Anecdotal evidence seems to suggest it is not proportional. I commute by bicycle from Harlem to Flatiron and have for the past 6 years. I have received 5+ tickets. Almost all in Harlem. In speaking with other riders/delivery people the story seems to be watch out until you cross over into the UWS or Midtown. Once you are out of Harlem you wont get tickets.&lt;/p&gt;
+
+&lt;p&gt;The Biking Public did a great investigation into the racial and economic ticketing of delivery people &lt;a href=&quot;http://www.intersectionalriding.com/2016/12/14/biking-while-working-immigrant/&quot;&gt;here&lt;/a&gt;. However they are looking at summons not traffic violations which shows only part of the story.&lt;/p&gt;
+
+&lt;h2 id=&quot;trying-to-get-a-better-handle-on-income-and-bicycle-tickets&quot;&gt;Trying to get a better handle on Income and Bicycle Tickets&lt;/h2&gt;
+
+&lt;p&gt;I received a FOIL list of all bicycle violations from 2015-2016, see &lt;a href=&quot;http://bit.ly/2ns28B4&quot;&gt;here&lt;/a&gt;
+I randomly selected 20 Tickets from the list and filed a foil request with the DMV for a copy of the tickets. This cost 220$.  See response &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/DMV_Bike_Ticket_Data.pdf&quot;&gt;here&lt;/a&gt; and data &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/Random%20Number%20Tickets.csv&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Counting up all the tickets, 12 of the tickets were given in areas in which the mean income is less than the city’s mean income.&lt;/p&gt;
+
+&lt;p&gt;Bicycling rates track with income rates in NYC acording to &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/NYC%20Income%20Cycling.pdf&quot;&gt;this&lt;/a&gt;. So that the wealthier you are the higher likelihood you bicycle.&lt;/p&gt;
+
+&lt;p&gt;Based on the time period I looked at and the very limited data I have, you can make the argument that 40% of all nyc bicycle trips were taken by people below nyc average median income. But 60% of bicycle tickets were given in areas that are below nyc average median income.&lt;/p&gt;
+
+&lt;p&gt;Any ideas where to get more data?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The DMV has told me that their database of violations does not include location.&lt;/li&gt;
+  &lt;li&gt;To get all the tickets from the DMV would cost over half a million dollars.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Protected Bike Lane vs Unprotected Cost FOIL</title>
+   <link href="http://Bellspringsteen.github.com/blog/ProtectedVsUnprotectedLanesCost"/>
+   <updated>2017-03-07T00:00:00-05:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/ProtectedVsUnprotectedLanesCost</id>
+   <content type="html">&lt;p&gt;I requested from the DOT the below,&lt;/p&gt;
+
+&lt;p&gt;New York City Department of Transportation
+Records Access Officer
+55 Water Street, 4th floor
+New York, NY 10041&lt;/p&gt;
+
+&lt;p&gt;Dear Records Access Officer:
+This is a request under the Freedom of Information Act.
+I request that a copy of the following documents [or documents containing the following information] be provided to me:
+A document detailing the additional cost, over a no bicycle infrastructure street associated, with the construction of a unit (whatever the easiest unit is such as per block, per foot, etc) of a “Protected Bicycle Path with Access Point“  such as can be found on Columbus Avenue and 92nd Street.
+A document detailing the cost associated, over a no bicycle infrastructure street associated, with the construction of a unit (whatever the easiest unit is such as per block, per foot, etc) of a “Bicycle Lane” such as can be found on 111th street and Adam Clayton Powell Jr Blvd.
+Any documents detailing the proposal, construction, cost, or any other details of the installation of the “Protected Bicycle Path with Access Point“ which stretches from 110th to 69th street on Columbus Avenue in Manhattan.
+Any documents detailing the proposal, construction, cost, or any other details of the installation of the “Bicycle Lane“ which stretches from 110th to 118thth street on Adam Clayton Powell Jr Blvd in Manhattan.&lt;/p&gt;
+
+&lt;p&gt;In order to help to determine my status to assess fees, you should know that I am an individual seeking information for personal use and not for a commercial use.&lt;/p&gt;
+
+&lt;p&gt;I request a waiver of all fees for this request. Disclosure of the requested information to me is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in my commercial interest.&lt;/p&gt;
+
+&lt;p&gt;I ask that the data be provided in an Excel spreadsheet, csv or other delimited text file or other database format. If you have this information in an existing report, that may suffice.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your consideration of this request.
+Sincerely,&lt;/p&gt;
+
+&lt;p&gt;Alex Bell&lt;/p&gt;
+
+&lt;p&gt;I received &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/DOT/ProtectedBikeLaneCostVsUnprotected/DOTResponse.pdf&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Any ideas of a better way of answering the question of protected vs unprotect per mile cost?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Your neighborhood NYPD officer isn't likely to be your neighbor</title>
+   <link href="http://Bellspringsteen.github.com/blog/NYPDHomeZip"/>
+   <updated>2016-09-17T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/NYPDHomeZip</id>
+   <content type="html">&lt;p&gt;The NYPD Patrol Guide states that officers must “live in one of the city’s five boroughs or Nassau, Suffolk, Rockland, Westchester, Putnam or Orange counties.”&lt;/p&gt;
+
+&lt;p&gt;Why do residency requirements exist?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* http://www.gothamgazette.com/index.php/development/3218-residency-requirements
+* http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I was curious where within the allowed counties most officers live, and curious if there are any exceptions to the rule. Using personnel data provided by the NYPD (see below for details on how the data was obtained), I found the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;58% of NYPD Officers live in NYC
+    &lt;ul&gt;
+      &lt;li&gt;17% of NYPD officers live in Queens&lt;/li&gt;
+      &lt;li&gt;16% of NYPD officers live in Brooklyn&lt;/li&gt;
+      &lt;li&gt;11% of NYPD officers live in The Bronx&lt;/li&gt;
+      &lt;li&gt;10% of NYPD officers live in Staten Island&lt;/li&gt;
+      &lt;li&gt;4% of NYPD officers live in Manhattan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;26% of NYPD officers live in Long Island (Nassau or Suffolk County)&lt;/li&gt;
+  &lt;li&gt;13% of NYPD officers live in Approved Upstate NY Counties (Rockland,Westchester,Putnam, or Orange County)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Less than 1% live in, I guess, specially approved non-standard counties.&lt;/p&gt;
+
+&lt;p&gt;The Patrol Guide also states that officers can’t live in the same zip code they work in. However, I found that 4% of NYPD officers live and serve in the same zip code.&lt;/p&gt;
+
+&lt;h3 id=&quot;map-of-zip-codes-with-number-of-officers-in-each&quot;&gt;Map of Zip Codes with Number of Officers in Each&lt;/h3&gt;
+
+&lt;embed src=&quot;https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html&quot; width=&quot;1200&quot; height=&quot;600&quot; style=&quot;border:1px solid&quot; /&gt;
+
+&lt;p&gt;Embed with &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;embed src=&quot;https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-show-count=&quot;false&quot;&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;map-of-precincts-click-precinct-to-see-stats&quot;&gt;Map of Precincts (Click Precinct to see stats)&lt;/h3&gt;
+
+&lt;embed src=&quot;https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html&quot; width=&quot;1200&quot; height=&quot;600&quot; style=&quot;border:1px solid&quot; /&gt;
+
+&lt;p&gt;Embed with &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;embed src=&quot;https://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-show-count=&quot;false&quot;&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-case-of-the-misplaced-officers&quot;&gt;The case of the misplaced officers&lt;/h3&gt;
+
+&lt;p&gt;According to the &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/ResidencyRequirements.pdf&quot;&gt;NYPD Patrol Guide&lt;/a&gt; officers can’t live in the same zip code they work in.&lt;/p&gt;
+
+&lt;p&gt;In a post on a police &lt;a href=&quot;http://forums.officer.com/t152263/&quot;&gt;forum&lt;/a&gt; the following was posted:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/image00.png =1000x&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/image01.png =1000x&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I suspect that the officers who are listed as living and working in the same zip code have false addresses listed, probably the address of the precinct where they work. (And of course, other officers may also have false addresses listed.)&lt;/p&gt;
+
+&lt;p&gt;If you go by any precinct you will see that the sidewalks, bike lanes, and parks around the precinct are covered with private officers’ cars and police vehicles. You will also notice that quite a few of these vehicles have non-New York license plates and have notes on the dashboard with badge numbers or other NYPD identifiers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/merged.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-you-get-this-data&quot;&gt;How did you get this Data?&lt;/h2&gt;
+
+&lt;p&gt;First I filed a FOIL request (see &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/NYPDOfficerHomeZip_Request.txt&quot;&gt;here&lt;/a&gt;). It was rejected (see &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/FoilRejection.JPG&quot;&gt;here&lt;/a&gt;). Then I responded with an appeal (see &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/NYPDOfficerHomeZip_RejectionAppeal.txt&quot;&gt;here&lt;/a&gt;) This was rejected again.&lt;/p&gt;
+
+&lt;p&gt;Side note: I have filed many FOIL requests with the NYPD, and when I receive a response, it is very difficult to track which of my requests the response relates to. You might think that in rejecting your claim they would tell you which request they were rejecting. They don’t. You might also think that if you supplied your own file number than it would be listed in “Your File #” section. You would be wrong on both accounts. The NYPD doesn’t tell you what it’s rejecting. It gives the same canned rejection to every request, no matter how small. It doesn’t take emails. You can call but no one will ever pick up or call you back.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-a-foil-request-doesnt-work&quot;&gt;When a foil request doesn’t work&lt;/h2&gt;
+
+&lt;p&gt;A step-by-step guide:&lt;br /&gt;
+	1. Get a lawyer. (I leaned on family for this one.) &lt;br /&gt;
+	2. Write out a petition. See &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/BellvNYPDPetition.docx&quot;&gt;here&lt;/a&gt;  and &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/BellAffirmationofEBinsupport.docx&quot;&gt;here&lt;/a&gt;&lt;br /&gt;
+	3. Go to 60 Centre Street. Go downstairs to room 141B in the basement. Yes, you really have to go to the building. &lt;a href=&quot;https://www.nycourts.gov/courts/1jd/supctmanh/motions_on_notice.shtml&quot;&gt;NYS&lt;/a&gt; says that “E-filing through the New York State Courts Electronic Filing System (“NYSCEF”) is mandatory in all cases commenced on or after Feb. 19, 2013 (except for Article 70 (habeas corpus) proceedings, Article 78 proceedings, and election law, matrimonial, and Mental Hygiene Law matters.” So, for some reason you can skip the hassle and expense of going downtown for the everything BUT the important things like marriage, elections, and challenging government agencies.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/60CenterStreet.JPG =1000x&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;br /&gt;
+&lt;em&gt;60 Centre Street. Note the text on the building, The True Administration Of Justice Is The Firmest Pillar Of Good Government.&lt;/em&gt;&lt;br /&gt;
+	4. Get the Index Number for the case, which costs $210. &lt;br /&gt;
+	5. Now you have to serve the papers, which you can’t do yourself. $187.50 &lt;br /&gt;
+	6. Then you have to go back to 60 Center Street and file the papers and the receipt of service. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my case, after a few rounds of calls between the lawyers the NYPD went from “This is ludicrous and will be dismissed” to “Ok here is what you want.”&lt;/p&gt;
+
+&lt;p&gt;And then they sent over the data.&lt;/p&gt;
+
+&lt;p&gt;Helpfully, the NYPD lawyer pointed out: 
+“I am not sure if your client is aware but the Department purposefully prohibits members of service being assigned to work within the confines of their residential precinct except for school crossing guards and civilians who began working for the NYPD before July 2009 – see entry nos. 6, 7, &amp;amp; 8 of the attached NYPD Patrol Guide. In addition, NYPD employees are required to live within New York City or one of the surrounding NY counties listed in the Patrol Guide. “&lt;/p&gt;
+
+&lt;p&gt;Which is humorous because the data shows otherwise.&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-data-into-maps&quot;&gt;Turning Data into Maps&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/tree/master/NYCGOV/NYPD/NypdOfficersHomeZip&quot;&gt;Here&lt;/a&gt; is my repository with the code I used to turn the data into maps. Feel free to point out errors and make your own maps.&lt;/p&gt;
+
+&lt;p&gt;FYI Someone in the 45 precinct lives in 12253, that doesn’t seem to exist.&lt;/p&gt;
+
+&lt;p&gt;Also someone is driving 2 hours each way from East Stroudsburg, PA 18302 to the 14th Precinct.&lt;/p&gt;
+
+&lt;h2 id=&quot;questionssuggestionshistory&quot;&gt;Questions/Suggestions/History&lt;/h2&gt;
+
+&lt;p&gt;“Every matter, and thing, that relates to the city ought to be transacted therein and the persons to whose care they are committed [should be] Residents,” &lt;a href=&quot;https://books.google.com/books?id=o9kRAAAAYAAJ&amp;amp;lpg=PA179&amp;amp;ots=wSJrUDImHe&amp;amp;dq=Every%20matter%2C%20and%20thing%2C%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&amp;amp;pg=PA179#v=onepage&amp;amp;q=Every%20matter,%20and%20thing,%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&amp;amp;f=false&quot;&gt;wrote George Washington in 1796&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do local officers make better officers?&lt;/p&gt;
+
+&lt;p&gt;If the NYPD created a non-personally identifiable identifier for each officer and then released aggregate data on firearm discharges, home zip, sex, race, and civil rights complaints we could potential answer these questions. Time for another FOIL request.&lt;/p&gt;
+
+&lt;p&gt;PRESS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;http://www.villagevoice.com/news/interactive-map-shows-where-nypd-officers-live-9249670&lt;/li&gt;
+  &lt;li&gt;https://www.nytimes.com/2016/10/24/nyregion/new-york-today-how-to-build-a-subway-tunnel-boring-machines-second-avenue-subway.html&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Central Park Cops</title>
+   <link href="http://Bellspringsteen.github.com/blog/CentralParkCops"/>
+   <updated>2016-09-15T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/CentralParkCops</id>
+   <content type="html">&lt;p&gt;Central Park is closed to vehicles (except the very southern part)&lt;/p&gt;
+
+&lt;p&gt;Police officers have a habit of ignoring this and just driving their private vehicles through the park.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FKWTeMVu0_E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;nypd-response&quot;&gt;NYPD Response&lt;/h2&gt;
+
+&lt;p&gt;I received the below a few weeks after going into the Central Park Precinct.&lt;/p&gt;
+
+&lt;p&gt;HERRERA, EDWARD &lt;a href=&quot;mailto:EDWARD.HERRERA@nypd.org&quot;&gt;EDWARD.HERRERA@nypd.org&lt;/a&gt;            May 19&lt;/p&gt;
+
+&lt;p&gt;This E-mail is in regards to a complaint you had made against PO Valdez driving his private vehicle in Central Park. I Sgt. Herrera spoke with the officer and instructed him  regards to this complaint. The officer is willing to no longer drive his private in Central Private. If you wish to add anything you can e-mail me at Edward.Herrera@NYPD.org&lt;/p&gt;
+
+&lt;p&gt;They still drive their vehicles through the park. Officer Herrera doesn’t respond.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NYC Government Priorities</title>
+   <link href="http://Bellspringsteen.github.com/blog/NYCPriorities"/>
+   <updated>2016-05-04T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/NYCPriorities</id>
+   <content type="html">&lt;p&gt;###There are 5.3 NYC Public School Children to Each Department of Education Employee&lt;/p&gt;
+
+&lt;p&gt;DEPT OF ED PEDAGOGICAL + DEPT OF ED HRLY SUPPORT STAFF + DEPT OF ED PARA PROFESSIONALS + DEPT OF ED PER DIEM TEACHERS + DEPARTMENT OF EDUCATION ADMIN = 183789
+&lt;br /&gt;
+Number of Enrolled Students = 978,121 &lt;a href=&quot;http://schools.nyc.gov/AboutUs/schools/data/stats/default.htm&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;###There are 28 homeless people to each Department of Homeless Employees
+DEPT. OF HOMELESS SERVICES = 2150
+&lt;br /&gt;
+Number of Homeless in NYC = 60,410 &lt;a href=&quot;http://www.coalitionforthehomeless.org/basic-facts-about-homelessness-new-york-city/&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;there-is-11-nyc-inmate-for-every-department-of-corrections-employee&quot;&gt;There is 1.1 NYC Inmate for every Department of Corrections Employee&lt;/h3&gt;
+&lt;p&gt;DEPARTMENT OF CORRECTION = 10573
+&lt;br /&gt;
+Number of inmates under custody of the New York City Department of Correction = 9,425 &lt;a href=&quot;http://www.scoc.ny.gov/pop.htm&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source-data&quot;&gt;Source Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/Payroll/NYCPayrollTransitBennefitEnrollment/NYCPayrollTransitBennefitEnrollment_Data.csv&quot;&gt;see source data here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Which NYC employees are enrolled in Transit Benefit</title>
+   <link href="http://Bellspringsteen.github.com/blog/FOILPayrollTransitBennefit"/>
+   <updated>2016-05-04T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/FOILPayrollTransitBennefit</id>
+   <content type="html">&lt;p&gt;#Of the 378,205 employees of City Agencies, 14% of are enrolled in Transit Benefit&lt;/p&gt;
+
+&lt;p&gt;##Only 6% of NYPD Employees are enrolled in Transit Benefit.&lt;/p&gt;
+
+&lt;p&gt;The winning Agency is the CONFLICTS OF INTEREST BOARD where a whopping 91% are enrolled in Transit Benefit.&lt;/p&gt;
+
+&lt;iframe width=&quot;1363&quot; height=&quot;709.4924999999998&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/1NM1Hn8ff7P2CqfYcLcpbDpL7jqV8lgLI5QQnsCE4hG4/pubchart?oid=1301433652&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source-data&quot;&gt;Source Data&lt;/h2&gt;
+
+&lt;p&gt;The source data is from a Freedom of Information Law Request (FOIL) made to the New York City Payroll Administration. (Who happened to score a respectable 76% enrolled in Transit Benefit. Go Payroll!!)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/Payroll/NYCPayrollTransitBennefitEnrollment/NYCPayrollTransitBennefitEnrollment_Data.csv&quot;&gt;see source data here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I has been suggested to me that The NYPD number is low because police officers can ride the public transit for free. This is false, there exists no exception for NYPD employees.&lt;/li&gt;
+  &lt;li&gt;There are a LOT of substitute teachers.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Which NYPD Precincts & Divisions have the highest enrollment in Transit Benefit</title>
+   <link href="http://Bellspringsteen.github.com/blog/FOILPayrollNYPDTransitBennefitByPrecinct"/>
+   <updated>2016-05-04T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/FOILPayrollNYPDTransitBennefitByPrecinct</id>
+   <content type="html">&lt;p&gt;#Of the 3015 NYPD Employees enrolled in Transit Benefit, more than 1/3 are crossing guards. The highest precincts after that are all administrative.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-short-nypd-officers-in-the-field-and-at-your-local-precinct-do-not-enroll-in-transit-benefits&quot;&gt;In short, NYPD Officers in the field and at your local precinct do not enroll in Transit Benefits.&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source-data&quot;&gt;Source Data&lt;/h2&gt;
+
+&lt;p&gt;The source data is from a Freedom of Information Law Request (FOIL) made to the New York City Payroll Administration. (Who happened to score a respectable 76% enrolled in Transit Benefit. Go Payroll!!)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/Payroll/NYCPayrollTransitBennefitNYPDPrecinct/NYCPayrollTransitBennefitNYPDPrecinct_Data.csv&quot;&gt;see source data here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;** The source also has a list of all the crazy and weird offices within the NYPD.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How many downloads do the NYC iOS and Android apps have</title>
+   <link href="http://Bellspringsteen.github.com/blog/FOILDOITTAPPDownload"/>
+   <updated>2016-05-03T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/FOILDOITTAPPDownload</id>
+   <content type="html">&lt;p&gt;#The DOITT says that the following are the download numbers for NYC apps&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;App Name&lt;/th&gt;
+      &lt;th&gt;Number of Current Device Installs&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Android NYC311&lt;/td&gt;
+      &lt;td&gt;78115&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Android NYCBuildings&lt;/td&gt;
+      &lt;td&gt;8001&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Android NYCEvents&lt;/td&gt;
+      &lt;td&gt;4252&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Android ReadyNYC&lt;/td&gt;
+      &lt;td&gt;1323&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS NYC311&lt;/td&gt;
+      &lt;td&gt;189099&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS NYCBuildings&lt;/td&gt;
+      &lt;td&gt;15236&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS NYCMedia App&lt;/td&gt;
+      &lt;td&gt;8735&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS Stuff&lt;/td&gt;
+      &lt;td&gt;6418&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS NYCEvents&lt;/td&gt;
+      &lt;td&gt;7302&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS ReadyNYC&lt;/td&gt;
+      &lt;td&gt;4128&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS NYCRecycles&lt;/td&gt;
+      &lt;td&gt;2551&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;iOS NYCService&lt;/td&gt;
+      &lt;td&gt;1600&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Potentially 3% of NYC downloaded a 311 app, thats higher than I would have thought.&lt;/p&gt;
+
+&lt;h2 id=&quot;source-data&quot;&gt;Source Data&lt;/h2&gt;
+
+&lt;p&gt;The source data is from a Freedom of Information Law Request (FOIL) made to the New York City DOITT&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/DOITT/NYCAppDownloadNumbers/NYCAppDownloadNumbers_Data.csv&quot;&gt;see source here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I wonder how much money was spent on the apps?
+Developed External or Internal to DOITT?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wood Bicycle Rack - 1.5 Years In</title>
+   <link href="http://Bellspringsteen.github.com/blog/WoodBicycleRack"/>
+   <updated>2016-05-02T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/WoodBicycleRack</id>
+   <content type="html">&lt;p&gt;#Wooden Bicycle Rack
+##I needed a bicycle rack, I had some IKEA bed slats, so I made a bicycle rack.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/WoodRack_1.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/WoodRack_2.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Its been 1.5 years of riding everyday in NYC. The varnish is starting to wear off, might need another coat. Worst damage so far was the truck who backed up and bent the handlebars and cracked the frame.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alex Bell vs UPS Corporation- Can you use small claims court to clear bike lanes? NO</title>
+   <link href="http://Bellspringsteen.github.com/blog/VsUPS"/>
+   <updated>2015-09-27T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/VsUPS</id>
+   <content type="html">&lt;p&gt;###The Setup
+&lt;br /&gt;
+I bike every day to work from Harlem (~137th Street) to 28th Street. The ride covers most of the city infrastructure for biking, from bike lanes to parks to the constant mass of vehicular insanity that is Midtown. Adam Clayton Powell (7th Avenue) from 155th to 110th has a layout similar to many Manhattan avenues. North and south bound traffic is separated by a median. Each direction of traffic has two lanes for moving vehicles, a bike lane to the right, and street parking to the right of the bike lane.
+  &lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d765.427878932101!2d-73.9536188668955!3d40.80131617160475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1443214885503&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most of the time in the morning, the bicycle lane on Adam Clayton Powell from 125th to 110th is blocked on every few streets by double parked vehicles, both private vehicles and delivery trucks. UPS trucks are a particularly frequent offender. Logic and experience suggests this is true for most of NYC. The reasons for double parking are many, but two obvious ones are the lack of available parking spots (perhaps because parking is free,http://www.perc.org/blog/why-parking-free) and the fact that double parking often goes unpunished. The double parked cars and trucks are a nuisance for drivers causing traffic to merge across the lanes, but for bicyclist they are a death trap. Forcing riders to merge into faster moving traffic from behind, pure murder.
+  &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So I decided to see if I could get trucks and cars to not park in the 15 block stretch on the southbound side from 110th to 125th on Adam Clayton Powell.  I started by asking UPS drivers I encountered not to park in the bike lane. I thought this would be an easy request. You are currently driving down a lane of traffic. Instead of veering into a bicycle lane, simply stop where you are in the lane. But every driver I talked to said something along the lines of “it’s not my fault, talk to corporate.”
+  &lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/UPS.png&quot; /&gt; &lt;br /&gt; &lt;b&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;On June 19th, on my way to work I took a video and a picture of a UPS truck blocking the lane. After some procrastinating, on August 3rd for $29.65, I filed a small claims lawsuit against UPS using &lt;a href=&quot;https://www.turbocourt.com/&quot;&gt;https://www.turbocourt.com/&lt;/a&gt;. To file you need a NYC address for the person or corporation you suing. This was a little tricky as really I was hoping to just sue corporate UPS and definitely didn’t want to sue an owner of an UPS franchise store. I picked a address on 14th street that seemed to be some UPS sorting facility. The other issue was the amount of damages I was seeking. I had two options. Option 1 was to state that my life was put into danger and that I was suing for some kind of emotional stress etc. But reading through the court guidelines, I didn’t think this would go over so well. So instead I did Option 2, which was claiming $999 from having to buy a metrocard for the last 8 months because I couldn’t ride my bike to work. A few days later I got an email saying my court date was September 17th at 6:30 pm at Manhattan - Harlem Community Court (Address: 170 East 121 Street, New York NYC 10035, Room: 308).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Probably a week or so after that I got a call from a UPS Security employee who called to ask about the case. I told him that I was suing because UPS trucks were blocking the bike lanes in Harlem. He said that he would be forwarding the letter on to corporate and that they would call me the next day. I also asked for an address for the UPS Corporation and he let me know that 643 West 43rd 10036, 6th floor was the best address in NYC for UPS Corporate.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I didn’t hear from anyone at UPS for a few months until the Monday before the case. I called up the same number on 14th street to let the security employee know that I had not received a call back. The person there let me know that he had passed it along and if I hadn’t received anything most likely that meant they intended to just see me in court. Excellent.
+  &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But on Wednesday, I received a call from Sean, security supervisor, at UPS. He asked what my complaint was and how he could address it so that the court case was not necessary. After I explained the situation, he let me know that he would work to talk to the driver and get that practice ended. He wanted to know if I could be paid some smaller amount to settle out or court,  I said that my damages were $999 and that’s the number that was required. He was not super pleased and said he would see me in court.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Court
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Showed up at the court, which is in a &lt;a href=&quot;http://www.correctionhistory.org/html/chronicl/nycdoc/harlemjail/&quot;&gt;beautiful old building&lt;/a&gt; , at 6pm. The staircases are ornate gold (and are the location of the stairway scene in New Jack City with Wesley Snipes, according to the court officer) and the actual courtroom features two walls with WPA murals (covered, says the same court officer, for objectionable depictions of bare breasts and slaves). The courtroom is also kept at sixty degrees and after 3 hours of sitting in shorts and a tshirt feels like a torture chamber. Promptly at 6:30 PM the clerk explained that during the roll call of the cases for tonight, the defendants and claimants should announce whether they want to be heard by a judge or an arbitrator (https://www.nycourts.gov/courts/nyc/smallclaims/volunteer.shtml). If you choose trial by court, you will most likely not have your case heard that night and would have to return. The arbitrators are experienced lawyers who volunteer to help the court. I decided to go with arbitration and responded so during the roll call. While waiting, what turned out to be 2 hours for my case to be called, I got to listen to some of the other cases being heard by the judge. Sadly, unlike traffic court, you can’t clearly hear what the judge and participants in  the other cases are saying. I did manage to overhear one case involving Country Wide Insurance and an auto body shop owner over some rental car payments, which was settled with Countrywide paying $200 of the claimed $900. There was also a failed attempt by a woman to sue McDonalds over a breakfast sandwich which she claims made her sick enough to miss work and hence was owed $5,000 in lost wages. The problem in the case, as was repeatedly said by the judge in a perfect Judge Judy homage, was that the claimant could not prove that it was the McDonald’s sandwich which had caused the illness. The claimant’s complaints that she “only ate McDonalds” didn’t see to sway the judge as much as it did me.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My name was called and the UPS representative and I went to the fourth floor. This was my first time to see the UPS rep, who turned out to be none other than Sean, the Security Supervisor I had spoken to on the phone. My guess would be 35 years old and a resident of Long Island. He didn’t look super happy to be in East Harlem at 9:30pm, as the case began, he did not get happier. I described that over the previous eight months I was prevented from riding my bicycle to work by a seemingly constant presence of UPS trucks blocking the bike path in the weekday mornings. Because of that and the danger it posed to my life, I was suing for the cost of the metrocards which I had been forced to purchase. Sean’s first response was to ask whether I had contacted anyone at UPS, because he had found no evidence I had. Sean suggested that if only I had contacted them, the corporation would have remedied the situation to prevent an injury to their image. Sean tells me that UPS is very concerned about their image. I told him that I had contacted them and as you would expect if you aren’t calling about a lost package they don’t care. His next statement was that the drivers always tried to park legally, but sometimes they just couldn’t. To that I asked how it was easier to swerve into a bike lane in order to stop rather than simply stopping in the lane. This seemed to not compute and produced my favorite line from Sean which was, “do you know what kind of precedent this would set?” To which I smiled and said YES.
+  &lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;We get the results in 10 days.   &amp;lt;br&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;###UPDATE:
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/UPS_1_Letter2.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/UPS_1_Letter3.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;&lt;/b&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lost. No Monetary Award.&lt;/p&gt;
+
+&lt;p&gt;UPDATE: Started New York Supreme Court Case, stay tuned.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bicycle Ticket 4, Riding Through Broken Light</title>
+   <link href="http://Bellspringsteen.github.com/blog/bicycleticket4"/>
+   <updated>2015-08-15T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/bicycleticket4</id>
+   <content type="html">&lt;p&gt;###The Scene&lt;/p&gt;
+
+&lt;p&gt;###Location: Central Park
+###Date: June 30, 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I was riding south on Central Park Drive at approximately 74nd street in the bicycle lane. At this point, there are no cars allowed any more on the drive and this day the drive was closed to all motorized vehicle traffic.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I approached the 72nd street exchange and noticed the lights were completely out, I proceeded through the exchange and on my way south. A police officer on a scooter pulled up besides me past the exchange and pulled me over.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/TicketCentralPark.png&quot; /&gt; &lt;br /&gt; &lt;b&gt;The Ticket&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer Damin told me I was being stopped for going too fast through the broken light and endangering pedestrians in the crosswalk. I should have video taped the exchange with the officer but it slipped my mind. This is what I remember.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: Do you ride your bike a lot.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Me: Yes, I ride everyday. This is my 4th ticket this year. I have gone to court to contest each one.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: Really? I dont usually ticket people unless they are going too fast or are dangerous. You should have slowed down.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Me: I did slow. There were no pedestrians in the way.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: You were not being safe. Here is the ticket.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After our exchange I returned to the point and made a few videos to show the conditions and light.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://goo.gl/photos/rebL41XKWmjWNy4F9&quot;&gt;https://goo.gl/photos/rebL41XKWmjWNy4F9&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://goo.gl/photos/3X5XnATzjmKznDTt8&quot;&gt;https://goo.gl/photos/3X5XnATzjmKznDTt8&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://goo.gl/photos/oHnMCNGW2euXxumQA&quot;&gt;https://goo.gl/photos/oHnMCNGW2euXxumQA&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###The Charge
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have no idea what the charge is on this one. The ticket says 904B1 or 404B1. I cant find anything that is remotely applicable in those two sections of the NYS code.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###The Hearing
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The hearing was 02/12/2016 at 10:30am.&lt;/p&gt;
+
+&lt;p&gt;I showed up this time with my laptop and all the videos queued up and ready to show. As usual, officer was sworn in and asked to state the facts.&lt;/p&gt;
+
+&lt;p&gt;For some reason, someone taught the officers to try to speak as quickly and unintelligibly as possible. So his statement was something to the effect of “ .. traveling southbound … failed to stop … steady red light … pursued … ticketed”&lt;/p&gt;
+
+&lt;p&gt;I am not sure if it was the laptop in my hand or what. But the Judge stopped the officer, leafed through a book on her desk, then stated “ You didn’t say whether the pedestrian light was in working order. Case dismissed”&lt;/p&gt;
+
+&lt;p&gt;To be honest, I have no idea what happened. As always the NYPD officer lied and made up a story about the steady red light. I am not sure why the Judge decided to single out the pedestrian light. Perhaps she saw my laptop and knew there would be some kind of video involved.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Arbitrary and Capricious Enforcement
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have gotten 5 tickets over the last 2 years. They are always in Harlem or Central Park. I bike everyday from Harlem to the Flatiron, so I cover a lot of NYC streets. I have never gotten a ticket anywhere below 110th street unless it is in Central Park. I have seen many many cops pulling over bicyclist on the stretch of Adam Clayton Powell from 125th to 110th. I believe that this is a case of Arbitrary and Capricious Enforcement with certain precincts in historically poorer neighborhoods filling quotas of tickets for minor offenses which they ignore in wealthier parts of the city.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bicycle Ticket 2, Riding Through A Red Light</title>
+   <link href="http://Bellspringsteen.github.com/blog/bicycleticket2"/>
+   <updated>2015-08-14T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/bicycleticket2</id>
+   <content type="html">&lt;p&gt;###The Scene&lt;/p&gt;
+
+&lt;p&gt;###Location: 121st Street and Adam Clayton Powell
+###Date: March 14, 2014
+&lt;br /&gt;
+I was riding south on Adam Clayton Jr Blvd, and proceeded through 125th street going south. I most likely passed through multiple red lights, slowing each time to check for traffic. After passing the 121st street light a unmarked black Chevrolet Impala police car pulled up behind me and pulled me over.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Ticket.png&quot; /&gt; &lt;br /&gt; &lt;b&gt;The Ticket&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###The Charge
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The charge in this case is &lt;a href=&quot;http://www.safeny.ny.gov/trde-vt.htm#1111&quot;&gt;New York State Vehicle and Traffic Law 375 24-a.&lt;/a&gt;
+“
+§ 1111. Traffic-control signal indications. Whenever traffic is controlled by traffic-control signals, other than lane direction control signal indications provided in section eleven hundred sixteen, exhibiting different colored lights, or colored lighted arrows, successively, one at a time or in combination, only the colors green, yellow and red shall be used, and said lights shall indicate and apply to drivers of vehicles and to pedestrians as follows:
+(d) Red indications:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Traffic, except pedestrians, facing a steady circular red signal, unless to make such other movement as is permitted by other indications shown at the same time, shall stop at a clearly marked stop line, but if none, then shall stop before entering the crosswalk on the near side of the intersection, or in the event there is no crosswalk, at the point nearest the intersecting roadway where the driver has a view of the approaching traffic on the intersecting roadway before entering the intersection and shall remain standing until an indication to proceed is shown except as provided in paragraph two of this subdivision.
+“
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;###The Hearing
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I showed up once again at the 125th street Department of Motor Vehicles with lawyer in tow, see earlier post. Wouldn’t you guess, the judge once again was Ms. Martin.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This time my case was not the first to be called, so I was able to see some of the other cases. One of the first was a driver who had been pulled over but didn’t have insurance with him. After some yelling, a translator who was not allowed to translate; his license suspension was lifted when he produced the necessary document. The next up was a driver who requested a new date in order to secure a lawyer. Obviously he had tried this before as the record showed it had been months of stalling. The judge granted the delay once more but made it clear this was the last time.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And finally my case was up. As before Officer Jaeger approached and was sworn in. He then proceeded to recite back the incident, which had happened over a year ago, by simply reading off the yellow ticket ( see above) and adding in from what seemed like the officer’s instructions manual. For example “ I was stopped with a clear line of sight and no obstructions. I observed the traffic light and it was working correctly. I observed the light change from Green to Yellow to Red. The suspect passed in front of my vehicle and proceeded through the clearly marked lines. I proceeded after the suspect etc etc. After writing the ticket, I returned to the scene and observed the traffic light was functioning properly from Green to Yellow to Red. “
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The infuriating thing, was that when my Lawyer asked if the Officer could remember anything besides what was on the ticket, the answer was “ I wrote everything down.” But as you can see there is nothing on the ticket besides date, weather, etc.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once again, I remained silent as is my right.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After a few more back and forths, the Judge upheld the ticket and gave the claimed lowest ticket cost of 110$.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Biking Through Red Lights: Safety
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I ride my bicycle around NYC on average ten miles per day. When I reach a red light, I slow and if there is no traffic, I proceed through the red light. I believe that my low weight and low speed do not make me a danger to others as cars do and that my unobstructed views let me clearly see oncoming traffic. I think that non-motorized traffic should legally have to consider red lights as stop signs. Doing so will make non-polluting and low traffic methods of commuting, such as bicycles, more popular and thereby improve cities by removing cars from the streets and commuters from crowded subways.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bicycle Ticket 1, 50$ for wearing headphones</title>
+   <link href="http://Bellspringsteen.github.com/blog/50bucksforheadphones"/>
+   <updated>2015-08-05T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/50bucksforheadphones</id>
+   <content type="html">&lt;p&gt;###The Scene&lt;/p&gt;
+
+&lt;p&gt;###Location: Central Park
+###Date: September 12, 2014
+&lt;br /&gt;
+I was riding south on Central Park Drive at approximately 72nd street in the bicycle lane. A marked police cruiser with sirens on pulled up behind me and I pulled over. At the time, I was wearing earphone buds in both ears and listening to music. After being pulled over, the officer told me that I would be getting a ticket for riding with headphones.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###The Charge
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The charge in this case is &lt;a href=&quot;http://www.safeny.ny.gov/bike-vt.htm#sec375&quot;&gt;New York State Vehicle and Traffic Law 375 24-a.&lt;/a&gt;
+“
+§ 375 24-a.  Use of earphones while driving or riding a bicycle. It shall be unlawful to operate upon any public highway in this state a motor vehicle, limited use automobile, limited use motorcycle or bicycle while the operator is wearing more than one earphone attached to a radio, tape player or other audio device.
+“
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###The Hearing
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Monday, May 28th, 2015, I showed up with my mother, who is an attorney, for the hearing at the 125th street Department of Motor Vehicles. If you are familiar with the sometimes maddening inefficiencies of local government, then prepare to be pleasantly shocked by the rigid and efficient application of justice at the 125th street facility. In hearing room three there are long benches where all the defendants sit after checking in with the clerk. There is a separate section on the left for police officers. A DMV Administrative Law Judge presides over all cases. Once the judge enters, in this case a Ms. Martin, a standard speech is recited, some of the more interesting points of which are:
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It is incumbent on the police officer to provide the legal burden of proof in the case above a Clear and convincing evidence. (See &lt;a href=&quot;https://en.wikipedia.org/wiki/Legal_burden_of_proof&quot;&gt;here&lt;/a&gt; for how this standard of evidence relates to “Beyond reasonable doubt” in other cases, for instance in a murder case.)&lt;/li&gt;
+  &lt;li&gt;The defendant has a right to remain silent.&lt;/li&gt;
+  &lt;li&gt;A defendant may be represented by either themselves, a lawyer, or any other person they wish to bring.
+&lt;br /&gt;
+My case was the first called. The judge first swore in the officer and asked him to recall the incident. The officer claimed that he was parked on the drive as pictured on the drawing (below) and that he observed me from my right side no more than two car lengths away. After seeing that I was wearing headphones, he pulled me over. The officer then took the time to explain that he had asked me to pull over but I didn’t hear him because of the loud music (he presumed) I was playing. He asserted that he had to ask loudly before I removed the earbuds. In reality, its difficult to miss a flashing car pulling up behind you, and I stopped and removed my headphone right away.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/bikeTicketHeadphones.png&quot; /&gt; &lt;br /&gt; &lt;b&gt;The Scene&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Cross Examination
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My lawyer (thanks, Mom!) then began to question the officer. After ascertaining again where the officer was parked, the questioning followed pretty much as below. I had no recording device of my own in the courtroom (although potentially the court was recording) so I am recalling this from memory.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lawyer: If you were two car lengths away, as you claim, and to the right side of my client, how could you see both ears and ascertain that the headphones were in both ears?
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: As he passed by I could clearly see the right ear. After passing me, I could then also see the back of the left ear.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lawyer: What kind of headphones was my client wearing?
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: Standard ear buds. (Correct, not sure how he remembered, probably a guess).
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lawyer: Wouldn’t you say that the ear buds are very small and difficult to see? How could you clearly see the small plastic part in my clients ear or the thin wire?
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: Yes, it is small. But I could see.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lawyer: Was my client wearing a helmet?
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Officer: (Pauses for a second here), No, he was not wearing a helmet.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was wearing a helmet. So either the office didn’t remember, or this is either a blatant lie, most likely because the next question would be “how could you possible see earbuds which are beneath a helmet?”
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lawyer: If my client wasn’t wearing a helmet, why is this ticket for headphones? As I can see here the fine for a helmet and the severity of the infringement is much greater than that for headphones.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Judge: It is up to the officer what fine is given.
+Why would the judge feel the need to step in there? This is not the job of the judge and is inappropriate.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After a bunch of other questioning, my lawyer wrapped up. I was pleasantly surprised; I thought I had pretty good chance. The Judge asked if I would be answering questions, to which my lawyer responded that I would be taking my right to remain silent.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Judge stated that the ticket was sustained and that the charge would be $50 which, as the Judge pointed out, was the minimum that could be charged for the offense.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Biking With Headphones: Safety
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I ride my bicycle around NYC on average ten miles per day. I usually wear earphones and listen to music on a medium volume. I never have trouble hearing cars or observing traffic. I have been riding for six years and have had zero accidents. I don’t think wearing earphones affects my safety.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pen Mover - 28BYJ-48</title>
+   <link href="http://Bellspringsteen.github.com/blog/PenMover"/>
+   <updated>2015-06-24T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/PenMover</id>
+   <content type="html">&lt;h2 id=&quot;a-cool-2-axis-pen-mover-device&quot;&gt;A Cool 2 Axis Pen Mover Device&lt;/h2&gt;
+
+&lt;p&gt;A simple project, https://github.com/Bellspringsteen/penmover that uses 2 really cheap (&amp;lt;2$ at scale) stepper motors.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Bellspringsteen/penmover/master/IMG_2569.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;The Device&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I originally thought of using this form of setup to do 3D printing. I.e. instead of the usual frame with a extruder head riding between axis, this would use a extruder on the end of a long rod. Using three stepper motors you could control the position of the extruder head without the large frame.&lt;/p&gt;
+
+&lt;p&gt;The inexpensive motors to do not have the required accuracy nor is there enough mechanical assistance in the design to increase the torque of the motor.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Block Mover</title>
+   <link href="http://Bellspringsteen.github.com/blog/Blocks"/>
+   <updated>2015-06-24T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/Blocks</id>
+   <content type="html">&lt;h2 id=&quot;storing-and-moving-things&quot;&gt;Storing and Moving Things&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ocgVXuBXRFA&amp;amp;feature=youtu.be&quot;&gt;Computer Animation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ydqH1mR4aRw&quot;&gt;Real Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Containerization took a system of moving irregular shapes and sizes off of ships/trucks and standardized it into the loading and removing of standard size boxes.&lt;/p&gt;
+
+&lt;p&gt;Today in shipping facilities, car parking lots, and more. Attendants, packers, etc are still tasked with storing and moving irregular sizes. Simplify the problem, make everything a box.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Setchell Carlson Tube Radio</title>
+   <link href="http://Bellspringsteen.github.com/blog/TubeRadio"/>
+   <updated>2014-12-02T00:00:00-05:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/TubeRadio</id>
+   <content type="html">&lt;h2 id=&quot;setchell-carlson-tube-radio-no-bolts-or-screws&quot;&gt;Setchell Carlson Tube Radio: No Bolts or Screws&lt;/h2&gt;
+
+&lt;p&gt;Consumer electronics products today are not meant to be fixed. This is an established topic, but it turns out it wasn’t always like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/TubeRadio.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Setchell Carlson Tube Radio&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you first flip over the radio, inside is a schematic. It lists not only component values but a complete schematic.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/RadioSchematic1.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Side 1&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/RadioSchematic2.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Side 2&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Second interesting thing about this unit, is that there are no screw or bolts holding the base inside the plastic base. Instead there are just four posts, with spring loaded clips, which hold the case to the radio chasis.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/RadioConnector1.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Empty Posts in the Case&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/RadioConnector2.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Posts holding Radio Chasis&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I wonder if this design was chosen for ease of repair, ease of manufacturing or both.&lt;/p&gt;
+
+&lt;p&gt;As you can see. It doesnt look very good. Jenison is a much better painter than I.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alex's Vermeer</title>
+   <link href="http://Bellspringsteen.github.com/blog/AlexsVermeer"/>
+   <updated>2014-12-01T00:00:00-05:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/AlexsVermeer</id>
+   <content type="html">&lt;h2 id=&quot;inspiration-tims-vermeer&quot;&gt;Inspiration: Tim’s Vermeer&lt;/h2&gt;
+
+&lt;p&gt;I watched the movie &lt;a href=&quot;http://en.wikipedia.org/wiki/Tim%27s_Vermeer&quot;&gt;Tim’s Vermeer&lt;/a&gt; and wanted to give it a shot. The movie presents a hypothesis, posed by a few sources, that Vermeer used mechanical and optical aids to produce his paintings. In order to “prove” this, &lt;a href=&quot;http://en.wikipedia.org/wiki/NewTek#Tim_Jenison&quot;&gt;Tim Jenison&lt;/a&gt; recreates the painting of a vermeer.&lt;/p&gt;
+
+&lt;p&gt;One of the first examples in the film is to use a &lt;a href=&quot;http://en.wikipedia.org/wiki/Camera_lucida&quot;&gt;Camera Lucida&lt;/a&gt; to produce a amazing black and white picture. I decided to replicate the replication. Using a simple cosmetic mirror on the end of a rod, here are the results.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Picture1.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Step 1&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Picture2.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Step 2&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Picture3.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Step 3&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Picture4.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Step 4&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Picture5.JPG&quot; /&gt; &lt;br /&gt; &lt;b&gt;Step 5- 12 hours Later&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see. It doesnt look very good. Jenison is a much better painter than I.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 7 of HybridV2- Testing</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep7"/>
+   <updated>2014-10-26T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep7</id>
+   <content type="html">&lt;p&gt;##Mounted&lt;/p&gt;
+
+&lt;p&gt;First step for testing is on the stand. However, on the stand there is no resistance, so the algorithm testing is difficult as the speeds will instantly rise etc. But its a good starting point to determine if the system is even remotely working.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Stand.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;On The Stand&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;One other important piece for testing is to test individual pieces, i.e. without the vehicle control or hub motor. One method of doing this is to use a string of high power light bulbs in order to simulate and control the electric draw.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Lightbulb.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Light Bulb as Electric Draw&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;##The Streets
+Of course the only real way to test is to hit the streets. The multiple algorithms switch is a great mechanism to aid in testing, because it allows for changing of the bike without having to reprogram. Also on the bike is a fire extinguisher, it may look a little awkward, but its already been used once in hybrid version 1 so its a good idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/HybridStreet.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Scooter on the Streets&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;##MPG Numbers&lt;/p&gt;
+
+&lt;p&gt;So far there isn’t enough data to determine MPG numbers accurately enough. The system is operating as designed though with acceleration greatly improved. The 50cc bike is a perfect size of engine for the city, with a top speed of 45 mph and should be enough for any city dweller. However, as discussed in section 1, the acceleration especially on hills etc is slow and arguably dangerous. The system increases the acceleration and gives greater utility to the smaller capacity engine. In addition, the start stop feature of the system keeps the engine operating at greater ends of the spectrum more often; the ICE is either idling or at or near full throttle which increases the overall efficiency of the bike.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 6 of HybridV2- Software</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep6"/>
+   <updated>2014-10-25T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep6</id>
+   <content type="html">&lt;p&gt;##Compiler&lt;/p&gt;
+
+&lt;p&gt;One of the highest things on the list to change from version 1 &amp;amp; 2 of the hybrid it is the choice of microcontroller platform. And its not because the Microchip hardware is poor, the units are powerful with great variety and a lot to offer. The main problem is software support. While many other microcontrollers have great UNIX development support, the Microchip software seems stuck in the windows days. Recently Microchip did release Unix support via their compiler; however, as of now the hybrid is currently written for and compiled using the CCS Microchip compiler. For version 3 of the hybrid, the switch will be made to at least another compiler.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Code.png&quot; /&gt; &lt;br /&gt; &lt;b&gt;Code&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;##PID Controller&lt;/p&gt;
+
+&lt;p&gt;The software is not overly complex. The majority of the program is spent getting and setting the inputs and outputs. There are some checks performed to make sure that the voltage stays between acceptable limits, that the unit stops if a fault is detected, etc. The majority of the work is done in the Proportional Integral and Derivative Controller ( PID) which should be familiar to even the most basic Control Theory students. The PID controller takes in as input the vehicle speed and the users throttle input, the delta of which is the error signal. The unit sets the output of the ICE and the electric vehicle system based on the error signal.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 5 of HybridV2- Hybrid Control Unit</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep5"/>
+   <updated>2014-10-24T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep5</id>
+   <content type="html">&lt;p&gt;##Control Unit&lt;/p&gt;
+
+&lt;p&gt;The control unit is made up of a PIC16F873A Microchip microcontroller along with a few other passive units for taking inputs and driving outputs. There are obviously no off the shelf units which could perform this job completely; however, the unit most likely could have used other popular microcontroller units ranging from the arduino to the raspberry pi. But considering some of the requirements for the input and output, the custom unit does an altogether better job.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Controller.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Hybrid Unit&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/ControllerCase.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Hybrid Unit in Case&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The electrical connections to the unit are through the DB-15 connector. The debug connection is supplied through the usual ( for microchip) RJ connector. The casing is a 3d printed box which is secured inside the under seat section, right next to the supercapacitors.&lt;/p&gt;
+
+&lt;p&gt;###Inputs&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hall Input
+    &lt;ul&gt;
+      &lt;li&gt;In order to measure the speed of the bike, one of the hall sensor outputs of the motor is tapped and lead to the unit. By measuring the frequency of the 5V train the speed of the bike is measured. This is more easily accomplished by using the Capture Command Peripheral ( CCP) section of the microcontroller which implements an in hardware PWM comparator.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Analog Throttle Input
+    &lt;ul&gt;
+      &lt;li&gt;As discussed in the Step 2 Post, the hybrid unit takes in the analog throttle output from the user. This signal is captured and analyzed by one of the units A/D converters.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Algorithm Switch
+    &lt;ul&gt;
+      &lt;li&gt;There is also a switch on the unit in order to toggle between different algorithm designs. As will be discussed in testing, it is helpful to have multiple algorithms and the ability in testing to switch between them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###Outputs&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ICE Throttle Output
+    &lt;ul&gt;
+      &lt;li&gt;The ICE is controlled via a Hobby Servo which is bolted to the throttle body. It is controlled via a digital output pin on the microchip.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brake Switch Output
+    &lt;ul&gt;
+      &lt;li&gt;The brake output switch is a simple digital signal sent to the electric motor controller and is driven using a standard npn - pnp transistor gate.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electric Controller Output
+    &lt;ul&gt;
+      &lt;li&gt;The electric controller acceleration and brake analog signals are generated off of digital signals from the microchip which are converted to analog in a D/A converter on the board but separate from the microcontroller.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Contactor Output
+    &lt;ul&gt;
+      &lt;li&gt;The contactor for the high voltage system is operated by the hybrid unit. This allows the unit to only connect the system when all checks are complete and to also disconnect if there is a problem. Because of the higher current involved in driving this, it is driven off a digital i/o pin with a higher current transistor.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Meter Output
+    &lt;ul&gt;
+      &lt;li&gt;The voltage meter output, on the speedo, is also driven off a stepped reference of the high voltage which is divided from the hybrid unit.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 4 of HybridV2- Electrical</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep4"/>
+   <updated>2014-10-23T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep4</id>
+   <content type="html">&lt;p&gt;##Super Capacitors&lt;/p&gt;
+
+&lt;p&gt;The super capacitor bank is built of three of these units in series. The hybrid version 1 used individual Maxwell units built into a custom pack. While great units, building up the modules proved to be a great deal of work and concerns over the structural integrity, especially with the flexing of the motorcycle frame, mean that version two uses prebuilt modules. However, because the size of the unit is constrained it limits how many units can be stuffed into the frame. Version 3 will most likely go back to using individual Maxwell units.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/ElectricSystem.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;SuperCapacitor Bank&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;##Electric Controller&lt;/p&gt;
+
+&lt;p&gt;While the hybrid unit controls the overall system, the direct powering of the electric hub motor is controlled by an off the shelf controller. Specifically the controller is a Kelly eBike Controller with details here. The unit could be replaced with almost any brushless dc controller; however, for the price I have found them to be OK units. In the future, I would want to combine the hybrid control unit with the electric motor controller. The controller is mounted on the aluminum spar which connects the ICE to the hub motor. The inputs to the unit are configured for a throttle input, brake input, and a brake switch. This presents a few complications as the hybrid unit is what is driving the unit. Instead the hybrid unit outputs analog voltages and closes switches in order to mimic a drivers actions and to drive the electric controller.&lt;/p&gt;
+
+&lt;p&gt;##Others
+Besides the hybrid unit and the super capacitors, the rest of the items would not be out of place in a regular electric bike. For instance there is the main contactor which separates the high voltage from the controller. In addition there is a thermistor measuring hub motor temperature.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 3 of HybridV2- Mechanical</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep3"/>
+   <updated>2014-10-22T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep3</id>
+   <content type="html">&lt;p&gt;##Electric Movement&lt;/p&gt;
+
+&lt;p&gt;In version 1 of the hybrid I had used a AC Motor. While the performance was great and the mounting and transmission was easy, it took up a surprising amount of room in the overall design. With a platform like the Honda Metropolitan, there was simply no room. Instead, the electric motor is a BLDC hub motor, manufactured for electric mopeds. In Beijin specifically, these electric mopeds with a twenty mph top speed seem quite popular. Specifically its the 60V 3KW hub motor sold here. A more powerful motor would have been preferable; however, it was the highest output unit I could find that maintained the Metropolitans 13 inch wheel size. If there are other units which do the trick, please email the link.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/HubUnit.jpeg&quot; /&gt; &lt;br /&gt; &lt;b&gt;BLDC Electric Hub Motor&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;All in all it is not a horrible choice, although there are three things which definitely need improvement for future versions. Firstly it is very heavy, because it contains a ring of neodymium magnets mounted in its steel ring, it all adds up to a significant increase in weight.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/HubUnitInside.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Inside Hub Motor&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Secondly, in combination with the electric controller the output voltage for regeneration and acceleration is limited to a range of speed from 0-25 mph-ish. Which means that when up at speed, the electric power for accelerations is mostly useless. Lastly, while the physical stresses on the unit are certainly different than what was imagined by the engineers, the unit has already suffered from one bearing failure after less than a thousand miles.&lt;/p&gt;
+
+&lt;p&gt;##Transmission and Mounting&lt;/p&gt;
+
+&lt;p&gt;The standard Honda Metropolitan, much like all 50cc scooters, has a integrated motor and CVT transmission unit. This presents two problems for the integration of the hub motor. First, the wheel has no bearings, the bearings are integrated into the trans unit. Secondly, the transmission ends at the center of the bike, and the wheel is thin enough to stay in the center of the bike, the hub motor is much wider and if there were a way of bolting the unit on, the wheel would be offset by about six inches.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/MetropolitanUnit.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Example of 50cc motor/trans unit&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;First step to integrate the units is to offset the transmission by the six inches required. This is accomplished with a crankshaft adapter which moves the engine see of the transmission the required six inches. In addition, six inch spacers are used to separate the transmission from the engine. The required pieces were custom made.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/TransAdapter.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Custom Transmission Piece&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/EngineSpacing.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Engine Spacing&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second step is to modify the hub motor, by removing the axle on the transmission side. After removing the axle, a brake adapter manufactured for mounting custom wheels was bolted first to the transmission and then bolted to the hub motor.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/EngineTransEmpty.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Hub Motor Connection with visible Engine/Trans Gap&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/EngineTrans.jpg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Hub Motor Mounted&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The opposite side of the hub motor from the transmission is mounted on a channel three inch section of aluminum 6061 which is bolted one side to the axle of the hub motor and the other side to the engine. This adds strength and rigidity to the hub motor.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 2 of HybridV2- Input and Output</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep2"/>
+   <updated>2014-10-21T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep2</id>
+   <content type="html">&lt;p&gt;##Input&lt;/p&gt;
+
+&lt;p&gt;For the bike, the brakes were left alone, and it is only the throttle which was changed to become the input device for the hybrid system. The original Honda Metropolitan had a cable actuated hand throttle that went directly to the throttle valve ( the honda met is a carbureted bike.) On the left hand of the handlebars was added a hall effect sensor throttle which outputs a voltage proportional to the amount it is turned. The hybrid system takes this input in as the user input.
+However, instead of a usual vehicle in which the throttle corresponds to how much power the user wants to apply, the throttle instead corresponds to the desired speed of the vehicle a so called speed control throttle. While riding, the effect is not that different, although it does have some unique differences. For instance, in a regular vehicle if you have the throttle half way open and you are cruising down a level street your speed might equalize at sixty miles per hour. If you suddenly come upon a hill, and do not adjust your throttle, you will now be traveling at perhaps thirty miles per hour. In a speed control throttle, when hitting the hill the engine output would increase to maintain sixty miles per hour.
+Electric throttle are available from a variety of sites, mostly made for electric bicycles/scooters etc. When choosing, your options seem to be 0-5V potentiometer and hall effect throttles. An earlier iteration of the hybrid used a potentiometer input, but as is cautioned elsewhere on the internet, the throttle wore out quickly and soon developed some terrifying inconsistencies which made riding interesting. That seems to be the reason why most of the electronic throttles are hall effect sensors.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/EletricThrottle.jpeg&quot; /&gt; &lt;br /&gt; &lt;b&gt;Electric Throttle&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+  The throttle is the main input. The other two are a power switch, mounted next to the bikes lock, which turns on and off the hybrid system and a bypass switch on the resistor across the main power contactor. The bypass switch is inline with a resistor which loads the electric system controller across the contactor, without the switch the resistor will discharge the capacitor bank over about a week.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;##Output&lt;/p&gt;
+
+&lt;p&gt;Besides the obvious output of the wheels spinning and propelling the bike down the road, the other outputs from the hybrid system are two meters showing the voltage of the capacitor bank. The first meter is a row of single LEDs which are glued in place above the speedo. The meter functions similarly to a available boost gauge in a arcade racing game, in that it shows you an approximate of how much electric assist you have available. The second output is a cheap analog voltage meter mounted near the right foot, bought from Radio Shack (shocking.) Besides the boost functionality, the other reason to monitor the output is in case something goes wrong and the voltage is allowed to get too high. If the voltage exceeds forty eight volts for the capacitor bank, there will be a mini explosion right under the seat. Not good.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../../img/Speedo.png&quot; /&gt; &lt;br /&gt; &lt;b&gt;Voltage Meter above Speedo&lt;/b&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Step 1 of HybridV2- Idea</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridStep1"/>
+   <updated>2014-10-20T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridStep1</id>
+   <content type="html">&lt;p&gt;##Hybrid for the Rest&lt;/p&gt;
+
+&lt;p&gt;Hybrid systems increase the efficiency of internal combustion engine vehicles. However, hybrids such as both the series and parallel units currently for sale add significantly to the price as well as weight of the units. In addition, they are currently marketed and created only for high end automobiles. However, the majority of the worlds population is riding around on scooters, motorcycles and bicycles not in high end automobiles yet. In order to create a hybrid for those consumers, the product has to add minimally to the cost and weight of the vehicle. In addition, the fuel efficiency of small engine vehicles is excellent to begin with. The problem is that as consumers become more affluent, they upgrade their engine sizes in order to overcome the lack of acceleration/ carry capacity of the smaller capacity engines. A greater overall efficiency gain will be achieved if a hybrid 50cc scooter for instance could not only be more efficient that a regular 50cc unit but also have greater acceleration so as to satisfy a consumer’s demand so that they do not trade up to a 100cc unit.&lt;/p&gt;
+
+&lt;p&gt;To create a hybrid for these consumers, the unit must meet the following&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Low Cost&lt;/li&gt;
+  &lt;li&gt;Low Weight&lt;/li&gt;
+  &lt;li&gt;Improve Acceleration&lt;/li&gt;
+  &lt;li&gt;Improve Fuel Efficiency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##How it Works&lt;/p&gt;
+
+&lt;p&gt;The hybrid operates by using a supercapacitor bank to store energy during braking to aid in acceleration when needed. This is very similar to how a variety of other hybrids work. The additional advancement of this unit is that because the supercapacitor bank charges and discharges rapidly, with excellent transfer efficiency, the unit also charges the capacitors during conditions where the user is demanding less than the maximum output of the engine. When the capacitor bank reaches full, the internal combustion engine is idled while the super capacitor bank is discharged. Why is this beneficial? Internal combustion engines have ranges of operating efficiency and reach a maximum efficiency point at higher levels of output. Lots of time spent, as happens during usual usage, at less than full throttle increases the inefficiency of the system. This hybrid increases the efficiency of the system by maintaining in the engine in the more efficient band of operation.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hybrid Description</title>
+   <link href="http://Bellspringsteen.github.com/blog/HybridDescription"/>
+   <updated>2014-10-19T00:00:00-04:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/HybridDescription</id>
+   <content type="html">&lt;p&gt;The purpose of this project is to create a hybrid for the masses. Focusing on low cost, low weight and a unique power management to increase vehicle acceleration and efficiency.&lt;/p&gt;
+
+&lt;p&gt;##Hybrid V1&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;854&quot; height=&quot;510&quot; src=&quot;//www.youtube.com/embed/a_jzR1VXLaA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+##Hybrid V2&lt;/p&gt;
+
+&lt;p&gt;###On the Road
+&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;854&quot; height=&quot;510&quot; src=&quot;//www.youtube.com/embed/WQtkblyeEQs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+###How it Works
+&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;854&quot; height=&quot;510&quot; src=&quot;//www.youtube.com/embed/OO_IQZ6Yn74&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;View the Steps to Making It&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep1/&quot;&gt;Step 1- The Idea&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep2/&quot;&gt;Step 2- Input and Output&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep3/&quot;&gt;Step 3- Mechanical&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep4/&quot;&gt;Step 4- Electrical&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep5/&quot;&gt;Step 5- Hybrid Control Unit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep6/&quot;&gt;Step 6- Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.labsbell.com/blog/HybridStep7/&quot;&gt;Step 7- Testing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Subway Arrival, What was it?</title>
+   <link href="http://Bellspringsteen.github.com/blog/SubwayArrival"/>
+   <updated>2013-12-01T00:00:00-05:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/SubwayArrival</id>
+   <content type="html">&lt;p&gt;POST&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scale App, What was it?</title>
+   <link href="http://Bellspringsteen.github.com/blog/ScaleApp"/>
+   <updated>2010-12-01T00:00:00-05:00</updated>
+   <id>http://Bellspringsteen.github.com/blog/ScaleApp</id>
+   <content type="html">&lt;p&gt;In 2010, for my first iOS application I decided to aim a little high.&lt;/p&gt;
+
+&lt;p&gt;##The Premise:
+An app that can turn your iPhone into a scale.&lt;/p&gt;
+
+&lt;p&gt;##Result:
+An app that did not turn your iPhone into a scale.&lt;/p&gt;
+
+&lt;p&gt;##Idea:
+While the execution and feasibility might not have been great, I still like the idea. The idea was that by using the vibration motor in the iPhone we could apply a constant and known force to the iphone. By using the accelerometer we could measure the movement of that phone due to the force. The difference in movement from one set of runs to another would be based on the change in mass of the device: i.e. the more weight you piled on your iphone, the less it would move when it buzzed.&lt;/p&gt;
+
+&lt;p&gt;##Problem:
+The problems were many, the least of which was that it was my first application. But the major reason was that the movement was overly dependent on the friction and makeup of the table ( or other surface) the device was resting on. In addition, the accelerometer was sensitive enough to differentiate between a couple of pounds but the measurements were +/- pounds so not useful.&lt;/p&gt;
+
+&lt;p&gt;##The Icon&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../img/icon170x170.png&quot; alt=&quot;Funny Icon&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+ <url><loc>http://localhost:4000/blog/</loc></url>
 
 
-  {% for tag in site.data.tags %}
-        <url><loc>{{ site.url }}/blog/tag/{{ tag.slug }}/</loc></url>
-    {% endfor %}
+  
+        <url><loc>http://localhost:4000/blog/tag/hybrid/</loc></url>
+    
 
 </feed>
