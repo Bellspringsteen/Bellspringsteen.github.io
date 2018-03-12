@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-19T16:55:35-05:00</updated><id>http://localhost:4000/</id><entry><title type="html">UPS extraordinary violator</title><link href="http://localhost:4000/blog/UPSFinanceFoilTake2" rel="alternate" type="text/html" title="UPS extraordinary violator" /><published>2018-02-09T00:00:00-05:00</published><updated>2018-02-09T00:00:00-05:00</updated><id>http://localhost:4000/blog/UPSFinanceFoilTake2</id><content type="html" xml:base="http://localhost:4000/blog/UPSFinanceFoilTake2">&lt;p&gt;I believe from experience that UPS is a extraordinary blocker of bicycle lanes around NYC. Hence, my lawsuits against the company. Here as some other data points.&lt;/p&gt;
+
+&lt;p&gt;The City of New York releases parking violations and any information is has on vehicles it tickets for blocking a bike lane. Unfortunately, they don’t list the companies that owned the vehicles. &lt;a href=&quot;http://blog.labsbell.com/blog/UPSFinanceFoil&quot;&gt;I sent a FOIL request to NYC for them to cross reference the license plate numbers to company ownership but they stated the cost would be over two thousand dollars.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, maybe we can use one extra piece of data to determine the information without having to pay. UPS trucks are brown. They are all brown. They are also distinctively brown. They are also uniquely brown. Very few other commercial vehicles in NYC would be classified as brown. What can brown do for you?&lt;/p&gt;
+
+&lt;p&gt;By going to the NYC Data for &lt;a href=&quot;https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2014-August-/jt7v-77mi/data&quot;&gt;2014 tickets&lt;/a&gt; we can query for different ticket types.&lt;/p&gt;
+
+&lt;p&gt;Violation Type 9 are tickets for blocking the bike lane.&lt;/p&gt;
+
+&lt;p&gt;11,041 tickets given to BROWN commercial vehicles for blocking the bike laneIn 2014, there were 11041 tickets given in NYC to BROWN commercial vehicles for blocking the bike lane. 
+40,547 tickets given to commercial vehicles of any COLOR for blocking the bike lane. 
+2,022,409 tickets given to commercial vehicles of any COLOR for any violations. 
+271,154 tickets given to BROWN commercial vehicles for any violations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2016/kiv2-tbus/data#change&quot;&gt;Data is here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;BROWN Commercial vehicles, aka UPS, represent 13% of all traffic violations. 
+But UPS BROWN Commercial vehicles represent 27% of all bicycle lane parking violations. 
+UPS is an extraordinary blockers of bike lanes in NYC. UPS blocks bike lanes at a rate that is at least double any other company.&lt;/p&gt;
+
+&lt;p&gt;And before you complain, “not all commercial brown vehicles are UPS trucks.” Yes, yes they are mostly. Show me a picture of another commercial vehicle parked in NYC that is brown with its license plate and then show me where it shows up in the database as BROWN. They are pretty much all UPS Trucks.&lt;/p&gt;</content><author><name></name></author><category term="UPS" /><summary type="html">I believe from experience that UPS is a extraordinary blocker of bicycle lanes around NYC. Hence, my lawsuits against the company. Here as some other data points.</summary></entry><entry><title type="html">UPS Class Action</title><link href="http://localhost:4000/blog/UPSRoundClassAction" rel="alternate" type="text/html" title="UPS Class Action" /><published>2017-08-05T00:00:00-04:00</published><updated>2017-08-05T00:00:00-04:00</updated><id>http://localhost:4000/blog/UPSRoundClassAction</id><content type="html" xml:base="http://localhost:4000/blog/UPSRoundClassAction">&lt;h2 id=&quot;very-short-story&quot;&gt;Very Short Story&lt;/h2&gt;
+
+&lt;p&gt;We are filing a Class Action lawsuit against UPS for parking in the bicycle lane. Visit UPSHatesCyclists.com to join. Tell your NYC bicycle friends.&lt;/p&gt;
+
+&lt;h2 id=&quot;short-story&quot;&gt;Short Story&lt;/h2&gt;
+
+&lt;p&gt;UPS parks in bicycle lanes in NYC more than any other single entity in the city.&lt;/p&gt;
+
+&lt;p&gt;The small dollar amount of tickets they receive do no not outweigh the convenience to their operations of free parking.&lt;/p&gt;
+
+&lt;p&gt;Parking in the bike lane forces the 15mph cyclist to merge abruptly into 45mph traffic coming from behind.&lt;/p&gt;
+
+&lt;p&gt;I have called. I have written. I have asked. &lt;a href=&quot;http://blog.labsbell.com/blog/VsUPS&quot;&gt;I have filed a small claims lawsuit&lt;/a&gt;. I have filed a &lt;a href=&quot;http://blog.labsbell.com/blog/UPSRoundStateSupreme&quot;&gt;New York State Supreme court lawsuit.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are getting close, we need NYC cyclists to go to &lt;a href=&quot;UPSHatesCyclists.com&quot;&gt;UPSHatesCyclists.com&lt;/a&gt; and join the lawsuit.&lt;/p&gt;</content><author><name></name></author><category term="UPS" /><summary type="html">Very Short Story</summary></entry><entry><title type="html">UPS Department of Finance FOIL Request</title><link href="http://localhost:4000/blog/UPSFinanceFoil" rel="alternate" type="text/html" title="UPS Department of Finance FOIL Request" /><published>2017-08-03T00:00:00-04:00</published><updated>2017-08-03T00:00:00-04:00</updated><id>http://localhost:4000/blog/UPSFinanceFoil</id><content type="html" xml:base="http://localhost:4000/blog/UPSFinanceFoil">&lt;p&gt;In the hunt to get even more data showing the degree to which UPS is an extraordinary blocker of bike lanes in NYC, I filed the below FOIL request to the NYC Finance Department.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The fleet application by the United Parcel Service or any of its subsidiaries to enroll in the NYC Delivery Solutions program&lt;/li&gt;
+  &lt;li&gt;The number of tickets issued to the United Parcel Service or any of its subsidiaries in 2015 in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;The dollar amount of tickets issued as well the final amount paid by the United Parcel Service or any of its subsidiaries in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;The number of tickets given to the United Parcel Service or any of its subsidiaries for violations of NYS Traffic Section 4-08(e)(9) parking in a bicycle lane in 2015 in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;The dollar amount paid by the United Parcel Service or any of its subsidiaries for for violations of NYS Traffic Section 4-08(e)(9) parking in a bicycle lane in 2015 in the NYC Delivery Solutions program.&lt;/li&gt;
+  &lt;li&gt;Any documents relating to whether or not violations of NYS Traffic Section 4-08(e)(9) parking in a bicycle lane are accepted for reduced fines as part of the NYC Delivery Solutions Program.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After the customary rejection and appeal, the finance department provided &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/Finance/UPSFOILFinanceResponse.pdf&quot;&gt;this response&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;They are willing to provide data on UPS and non-UPS blocking of the bike lanes. However, they have decided it will cost 2k$. The searches can be accomplished by writing two SQL queries and would take any reasonably competent person 1 hour to retrieve the data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The response also indicated that while the bike lane tickets are supposed to be among a class, along with parking in front of a hydrant, that are non-amenable that they do have their dollar amount reduced for UPS.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We need the 2,002$ required to get the records from the finance department.&lt;/p&gt;</content><author><name></name></author><category term="UPS" /><summary type="html">In the hunt to get even more data showing the degree to which UPS is an extraordinary blocker of bike lanes in NYC, I filed the below FOIL request to the NYC Finance Department.</summary></entry><entry><title type="html">UPS New York State Supreme Court</title><link href="http://localhost:4000/blog/UPSRoundStateSupreme" rel="alternate" type="text/html" title="UPS New York State Supreme Court" /><published>2017-08-01T00:00:00-04:00</published><updated>2017-08-01T00:00:00-04:00</updated><id>http://localhost:4000/blog/UPSRoundStateSupreme</id><content type="html" xml:base="http://localhost:4000/blog/UPSRoundStateSupreme">&lt;h2 id=&quot;short-story&quot;&gt;Short Story&lt;/h2&gt;
+
+&lt;p&gt;I have an ongoing, now in appeal, case against UPS in State Supreme Court for being an extraordinary blocker of bicycle lanes.&lt;/p&gt;
+
+&lt;h2 id=&quot;long-story&quot;&gt;Long Story&lt;/h2&gt;
+
+&lt;p&gt;In September of 2015 &lt;a href=&quot;http://blog.labsbell.com/blog/VsUPS&quot;&gt;I filed a small claims lawsuit against UPS for blocking the bicycle lanes.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Small claims court is not the venue, i.e. I lost.&lt;/p&gt;
+
+&lt;p&gt;In February of 2016, &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/AlexMorganBellvsUnitedParcelServiceInc.pdf&quot;&gt;I filed this complaint against UPS&lt;/a&gt; in New York State Supreme Court.&lt;/p&gt;
+
+&lt;p&gt;The complaint lays out a public nuisance claim against UPS stating how the harms and ongoing danger to my life caused by UPS trucks intentionally parking in bike lanes. The complaint asks the judge to order UPS to stop the practice.&lt;/p&gt;
+
+&lt;p&gt;In April of 2016, the UPS law firm &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/UPSMotionToDismiss.pdf&quot;&gt;filed a motion to dismiss&lt;/a&gt; which we responded to &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/StateSupremeDismissOposition.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t until November of 2016 that the judge heard the arguments, not in the case, but in regards to the motion to dismiss.&lt;/p&gt;
+
+&lt;p&gt;The judge ruled on April 2017 that the case should be dismissed, see the &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/UPS/State%20Supreme%20Court/StateSupremeCourtDecision.pdf&quot;&gt;response here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The judge agreed with that a cause of action was presented in the complaint “Thus, contrary to UPS’s contention, the complaint, which alleges that the manner in which its trucks repeatedly park, stand, idle on public roadways substantially interferes with the exercise of a common right to use designated bicycle lanes, thus injuring the safety or comfort of a considerable number of cyclists, states a cause of action based on public nuisance.”&lt;/p&gt;
+
+&lt;p&gt;The judge ruled “he failed to allege or demonstrate that such conduct has subjected him to inconvenience or potential danger that is different in kind from the inconvenience and potential danger to which thousdans of other cyclists in Manhattan who use the same bicycle lanes are subjected.”&lt;/p&gt;
+
+&lt;p&gt;We have filed an appeal. Stay tuned.&lt;/p&gt;</content><author><name></name></author><category term="UPS" /><summary type="html">Short Story</summary></entry><entry><title type="html">Concrete Canvas is super cool</title><link href="http://localhost:4000/blog/ConcreteCanvas" rel="alternate" type="text/html" title="Concrete Canvas is super cool" /><published>2017-07-28T00:00:00-04:00</published><updated>2017-07-28T00:00:00-04:00</updated><id>http://localhost:4000/blog/ConcreteCanvas</id><content type="html" xml:base="http://localhost:4000/blog/ConcreteCanvas">&lt;iframe width=&quot;650&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LBHVKFCoYFc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Concrete Canvas is a really interesting material which at its simplest is a plastic cloth that has been impregnated with concrete. You can drape
+the canvas over any form, add water, and have a structure.&lt;/p&gt;
+
+&lt;p&gt;The company Concrete Canvas is based in the U.K. but they have a few US distributors. I was able to get a roll from Milliken shipped to me for 105$. &lt;a href=&quot;http://infrastructure.milliken.com/concretecloth/&quot;&gt;See here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.5 --&gt;
+
+&lt;div id=&quot;sliderConcreteCanvas&quot; style=&quot;width:75%;margin: 0 auto; &quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas1.jpg&quot; title=&quot;&quot; alt=&quot;Up close with the Concrete Canvas.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas2.jpg&quot; title=&quot;&quot; alt=&quot;Sew the ends together to make a ring.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas3.jpg&quot; title=&quot;&quot; alt=&quot;The ring after submerging in water for 1 day.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas5.jpg&quot; title=&quot;&quot; alt=&quot;Draping the canvas over a glass jar.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas6.jpg&quot; title=&quot;&quot; alt=&quot;The finished jar vase.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/img/ConcreteCanvas7.jpg&quot; title=&quot;&quot; alt=&quot;Sewed the cloth into a box and then submerged.&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It looks like the company has focused on mainly construction applications. But there are a few creative uses of the product out there&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.florian-schmid.com/stitching_concrete.html&quot;&gt;http://www.florian-schmid.com/stitching_concrete.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.concretecanvas.com/concrete-canvas/markets/design/&quot;&gt;http://www.concretecanvas.com/concrete-canvas/markets/design/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Why does approximately 1/10th of the NYPD make less than 1,000$ a year?</title><link href="http://localhost:4000/blog/NYPDPay" rel="alternate" type="text/html" title="Why does approximately 1/10th of the NYPD make less than 1,000$ a year?" /><published>2017-06-16T00:00:00-04:00</published><updated>2017-06-16T00:00:00-04:00</updated><id>http://localhost:4000/blog/NYPDPay</id><content type="html" xml:base="http://localhost:4000/blog/NYPDPay">&lt;p&gt;I requested from the NYPD the below,&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The number of New York City Police Department employees who were paid between 0 and 1000 dollars in 2015.
+
+As an example, records show the following employees and payroll
+	Supall, Tiffany D	3$
+	Johnsen, Denise L 	3$ 
+	Dejesus, Altagracia	3$
+Or simply confirm that it is possible for a large number of employees to be paid less than 100$.
+
+The average dollar cost in benefits per New York City Police Department employee.
+
+List of benefits such as health care, dental, parking, transit that a
+	* School Crossing Guard 
+	* Police Communications Technician
+	* Motor Vehicle Operator
+receives.
+
+The minimum number of hours or pay an employee must work to receive benefits. 
+
+The number of New York City Police Department employees who worked less than 100 hours in 2015.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I received &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NYPDPay/NYPD_Response.png&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Which stated that:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Responsive to point one in your request, the number of NYPD employees who were paid between 0 and 1,000 dollars in 2015 is 3,101.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;What are the situations that could have someone get less than 1000$ a year?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting fired/quiting X days into the start of the year?&lt;/li&gt;
+  &lt;li&gt;Starting at the NYPD with only X days left in 2015.&lt;/li&gt;
+  &lt;li&gt;Why are so many people paid 7$? http://seethroughny.net/payrolls/&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="FOIL" /><summary type="html">I requested from the NYPD the below,</summary></entry><entry><title type="html">Race, Income and Bicycle Tickets</title><link href="http://localhost:4000/blog/BicycleTicketsRaceIncome" rel="alternate" type="text/html" title="Race, Income and Bicycle Tickets" /><published>2017-03-31T00:00:00-04:00</published><updated>2017-03-31T00:00:00-04:00</updated><id>http://localhost:4000/blog/BicycleTicketsRaceIncome</id><content type="html" xml:base="http://localhost:4000/blog/BicycleTicketsRaceIncome">&lt;p&gt;How does Race and/or Income factor into who gets Bicycle Tickets in NYC?&lt;/p&gt;
+
+&lt;p&gt;Ten years ago it seemed as if the only bicyclists crazy enough to ride in NYC traffic were resturant delivery people, bicycle messengers and very very rarely a commuter. Now there are bicyclist everywhere&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* 350% growth in daily cycling, 1990-2015
+* 80% growth in daily cycling, 2010-2015
+* http://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;With ridership, tickets have increased also. Who is getting ticketed? Anecdotal evidence seems to suggest it is not proportional. I commute by bicycle from Harlem to Flatiron and have for the past 6 years. I have received 5+ tickets. Almost all in Harlem. In speaking with other riders/delivery people the story seems to be watch out until you cross over into the UWS or Midtown. Once you are out of Harlem you wont get tickets.&lt;/p&gt;
+
+&lt;p&gt;The Biking Public did a great investigation into the racial and economic ticketing of delivery people &lt;a href=&quot;http://www.intersectionalriding.com/2016/12/14/biking-while-working-immigrant/&quot;&gt;here&lt;/a&gt;. However they are looking at summons not traffic violations which shows only part of the story.&lt;/p&gt;
+
+&lt;h2 id=&quot;trying-to-get-a-better-handle-on-income-and-bicycle-tickets&quot;&gt;Trying to get a better handle on Income and Bicycle Tickets&lt;/h2&gt;
+
+&lt;p&gt;I received a FOIL list of all bicycle violations from 2015-2016, see &lt;a href=&quot;http://bit.ly/2ns28B4&quot;&gt;here&lt;/a&gt;
+I randomly selected 20 Tickets from the list and filed a foil request with the DMV for a copy of the tickets. This cost 220$.  See response &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/DMV_Bike_Ticket_Data.pdf&quot;&gt;here&lt;/a&gt; and data &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/Random%20Number%20Tickets.csv&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Counting up all the tickets, 12 of the tickets were given in areas in which the mean income is less than the city’s mean income.&lt;/p&gt;
+
+&lt;p&gt;Bicycling rates track with income rates in NYC acording to &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/BicycleTicketsRace/data/NYC%20Income%20Cycling.pdf&quot;&gt;this&lt;/a&gt;. So that the wealthier you are the higher likelihood you bicycle.&lt;/p&gt;
+
+&lt;p&gt;Based on the time period I looked at and the very limited data I have, you can make the argument that 40% of all nyc bicycle trips were taken by people below nyc average median income. But 60% of bicycle tickets were given in areas that are below nyc average median income.&lt;/p&gt;
+
+&lt;p&gt;Any ideas where to get more data?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The DMV has told me that their database of violations does not include location.&lt;/li&gt;
+  &lt;li&gt;To get all the tickets from the DMV would cost over half a million dollars.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="FOIL" /><summary type="html">How does Race and/or Income factor into who gets Bicycle Tickets in NYC?</summary></entry><entry><title type="html">Protected Bike Lane vs Unprotected Cost FOIL</title><link href="http://localhost:4000/blog/ProtectedVsUnprotectedLanesCost" rel="alternate" type="text/html" title="Protected Bike Lane vs Unprotected Cost FOIL" /><published>2017-03-07T00:00:00-05:00</published><updated>2017-03-07T00:00:00-05:00</updated><id>http://localhost:4000/blog/ProtectedVsUnprotectedLanesCost</id><content type="html" xml:base="http://localhost:4000/blog/ProtectedVsUnprotectedLanesCost">&lt;p&gt;I requested from the DOT the below,&lt;/p&gt;
+
+&lt;p&gt;New York City Department of Transportation
+Records Access Officer
+55 Water Street, 4th floor
+New York, NY 10041&lt;/p&gt;
+
+&lt;p&gt;Dear Records Access Officer:
+This is a request under the Freedom of Information Act.
+I request that a copy of the following documents [or documents containing the following information] be provided to me:
+A document detailing the additional cost, over a no bicycle infrastructure street associated, with the construction of a unit (whatever the easiest unit is such as per block, per foot, etc) of a “Protected Bicycle Path with Access Point“  such as can be found on Columbus Avenue and 92nd Street.
+A document detailing the cost associated, over a no bicycle infrastructure street associated, with the construction of a unit (whatever the easiest unit is such as per block, per foot, etc) of a “Bicycle Lane” such as can be found on 111th street and Adam Clayton Powell Jr Blvd.
+Any documents detailing the proposal, construction, cost, or any other details of the installation of the “Protected Bicycle Path with Access Point“ which stretches from 110th to 69th street on Columbus Avenue in Manhattan.
+Any documents detailing the proposal, construction, cost, or any other details of the installation of the “Bicycle Lane“ which stretches from 110th to 118thth street on Adam Clayton Powell Jr Blvd in Manhattan.&lt;/p&gt;
+
+&lt;p&gt;In order to help to determine my status to assess fees, you should know that I am an individual seeking information for personal use and not for a commercial use.&lt;/p&gt;
+
+&lt;p&gt;I request a waiver of all fees for this request. Disclosure of the requested information to me is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in my commercial interest.&lt;/p&gt;
+
+&lt;p&gt;I ask that the data be provided in an Excel spreadsheet, csv or other delimited text file or other database format. If you have this information in an existing report, that may suffice.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your consideration of this request.
+Sincerely,&lt;/p&gt;
+
+&lt;p&gt;Alex Bell&lt;/p&gt;
+
+&lt;p&gt;I received &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/DOT/ProtectedBikeLaneCostVsUnprotected/DOTResponse.pdf&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Any ideas of a better way of answering the question of protected vs unprotect per mile cost?&lt;/p&gt;</content><author><name></name></author><category term="FOIL" /><summary type="html">I requested from the DOT the below,</summary></entry><entry><title type="html">Your neighborhood NYPD officer isn’t likely to be your neighbor</title><link href="http://localhost:4000/blog/NYPDHomeZip" rel="alternate" type="text/html" title="Your neighborhood NYPD officer isn't likely to be your neighbor" /><published>2016-09-17T00:00:00-04:00</published><updated>2016-09-17T00:00:00-04:00</updated><id>http://localhost:4000/blog/NYPDHomeZip</id><content type="html" xml:base="http://localhost:4000/blog/NYPDHomeZip">&lt;p&gt;The NYPD Patrol Guide states that officers must “live in one of the city’s five boroughs or Nassau, Suffolk, Rockland, Westchester, Putnam or Orange counties.”&lt;/p&gt;
+
+&lt;p&gt;Why do residency requirements exist?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* http://www.gothamgazette.com/index.php/development/3218-residency-requirements
+* http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I was curious where within the allowed counties most officers live, and curious if there are any exceptions to the rule. Using personnel data provided by the NYPD (see below for details on how the data was obtained), I found the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;58% of NYPD Officers live in NYC
+    &lt;ul&gt;
+      &lt;li&gt;17% of NYPD officers live in Queens&lt;/li&gt;
+      &lt;li&gt;16% of NYPD officers live in Brooklyn&lt;/li&gt;
+      &lt;li&gt;11% of NYPD officers live in The Bronx&lt;/li&gt;
+      &lt;li&gt;10% of NYPD officers live in Staten Island&lt;/li&gt;
+      &lt;li&gt;4% of NYPD officers live in Manhattan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;26% of NYPD officers live in Long Island (Nassau or Suffolk County)&lt;/li&gt;
+  &lt;li&gt;13% of NYPD officers live in Approved Upstate NY Counties (Rockland,Westchester,Putnam, or Orange County)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Less than 1% live in, I guess, specially approved non-standard counties.&lt;/p&gt;
+
+&lt;p&gt;The Patrol Guide also states that officers can’t live in the same zip code they work in. However, I found that 4% of NYPD officers live and serve in the same zip code.&lt;/p&gt;
+
+&lt;h3 id=&quot;map-of-zip-codes-with-number-of-officers-in-each&quot;&gt;Map of Zip Codes with Number of Officers in Each&lt;/h3&gt;
+
+&lt;embed src=&quot;http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html&quot; width=&quot;1200&quot; height=&quot;600&quot; style=&quot;border:1px solid&quot; /&gt;
+
+&lt;p&gt;Embed with &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;embed src=&quot;http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesNYPDLive.html&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-show-count=&quot;false&quot;&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;map-of-precincts-click-precinct-to-see-stats&quot;&gt;Map of Precincts (Click Precinct to see stats)&lt;/h3&gt;
+
+&lt;embed src=&quot;http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html&quot; width=&quot;1200&quot; height=&quot;600&quot; style=&quot;border:1px solid&quot; /&gt;
+
+&lt;p&gt;Embed with &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;embed src=&quot;http://blog.labsbell.com/foil/NYPDHomeZip/WhereDoesMyNeighborhoodNYPDLive.html&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-show-count=&quot;false&quot;&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-case-of-the-misplaced-officers&quot;&gt;The case of the misplaced officers&lt;/h3&gt;
+
+&lt;p&gt;According to the &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/ResidencyRequirements.pdf&quot;&gt;NYPD Patrol Guide&lt;/a&gt; officers can’t live in the same zip code they work in.&lt;/p&gt;
+
+&lt;p&gt;In a post on a police &lt;a href=&quot;http://forums.officer.com/t152263/&quot;&gt;forum&lt;/a&gt; the following was posted:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/image00.png =1000x&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/image01.png =1000x&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I suspect that the officers who are listed as living and working in the same zip code have false addresses listed, probably the address of the precinct where they work. (And of course, other officers may also have false addresses listed.)&lt;/p&gt;
+
+&lt;p&gt;If you go by any precinct you will see that the sidewalks, bike lanes, and parks around the precinct are covered with private officers’ cars and police vehicles. You will also notice that quite a few of these vehicles have non-New York license plates and have notes on the dashboard with badge numbers or other NYPD identifiers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/merged.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-you-get-this-data&quot;&gt;How did you get this Data?&lt;/h2&gt;
+
+&lt;p&gt;First I filed a FOIL request (see &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/NYPDOfficerHomeZip_Request.txt&quot;&gt;here&lt;/a&gt;). It was rejected (see &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/FoilRejection.JPG&quot;&gt;here&lt;/a&gt;). Then I responded with an appeal (see &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/NYPDOfficerHomeZip_RejectionAppeal.txt&quot;&gt;here&lt;/a&gt;) This was rejected again.&lt;/p&gt;
+
+&lt;p&gt;Side note: I have filed many FOIL requests with the NYPD, and when I receive a response, it is very difficult to track which of my requests the response relates to. You might think that in rejecting your claim they would tell you which request they were rejecting. They don’t. You might also think that if you supplied your own file number than it would be listed in “Your File #” section. You would be wrong on both accounts. The NYPD doesn’t tell you what it’s rejecting. It gives the same canned rejection to every request, no matter how small. It doesn’t take emails. You can call but no one will ever pick up or call you back.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-a-foil-request-doesnt-work&quot;&gt;When a foil request doesn’t work&lt;/h2&gt;
+
+&lt;p&gt;A step-by-step guide:&lt;br /&gt;
+	1. Get a lawyer. (I leaned on family for this one.) &lt;br /&gt;
+	2. Write out a petition. See &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/BellvNYPDPetition.docx&quot;&gt;here&lt;/a&gt;  and &lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/blob/master/NYCGOV/NYPD/NypdOfficersHomeZip/BellAffirmationofEBinsupport.docx&quot;&gt;here&lt;/a&gt;&lt;br /&gt;
+	3. Go to 60 Centre Street. Go downstairs to room 141B in the basement. Yes, you really have to go to the building. &lt;a href=&quot;https://www.nycourts.gov/courts/1jd/supctmanh/motions_on_notice.shtml&quot;&gt;NYS&lt;/a&gt; says that “E-filing through the New York State Courts Electronic Filing System (“NYSCEF”) is mandatory in all cases commenced on or after Feb. 19, 2013 (except for Article 70 (habeas corpus) proceedings, Article 78 proceedings, and election law, matrimonial, and Mental Hygiene Law matters.” So, for some reason you can skip the hassle and expense of going downtown for the everything BUT the important things like marriage, elections, and challenging government agencies.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../foil/NYPDHomeZip/resources/img/60CenterStreet.JPG =1000x&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;br /&gt;
+&lt;em&gt;60 Centre Street. Note the text on the building, The True Administration Of Justice Is The Firmest Pillar Of Good Government.&lt;/em&gt;&lt;br /&gt;
+	4. Get the Index Number for the case, which costs $210. &lt;br /&gt;
+	5. Now you have to serve the papers, which you can’t do yourself. $187.50 &lt;br /&gt;
+	6. Then you have to go back to 60 Center Street and file the papers and the receipt of service. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my case, after a few rounds of calls between the lawyers the NYPD went from “This is ludicrous and will be dismissed” to “Ok here is what you want.”&lt;/p&gt;
+
+&lt;p&gt;And then they sent over the data.&lt;/p&gt;
+
+&lt;p&gt;Helpfully, the NYPD lawyer pointed out: 
+“I am not sure if your client is aware but the Department purposefully prohibits members of service being assigned to work within the confines of their residential precinct except for school crossing guards and civilians who began working for the NYPD before July 2009 – see entry nos. 6, 7, &amp;amp; 8 of the attached NYPD Patrol Guide. In addition, NYPD employees are required to live within New York City or one of the surrounding NY counties listed in the Patrol Guide. “&lt;/p&gt;
+
+&lt;p&gt;Which is humorous because the data shows otherwise.&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-data-into-maps&quot;&gt;Turning Data into Maps&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bellspringsteen/other.nyc/tree/master/NYCGOV/NYPD/NypdOfficersHomeZip&quot;&gt;Here&lt;/a&gt; is my repository with the code I used to turn the data into maps. Feel free to point out errors and make your own maps.&lt;/p&gt;
+
+&lt;p&gt;FYI Someone in the 45 precinct lives in 12253, that doesn’t seem to exist.&lt;/p&gt;
+
+&lt;p&gt;Also someone is driving 2 hours each way from East Stroudsburg, PA 18302 to the 14th Precinct.&lt;/p&gt;
+
+&lt;h2 id=&quot;questionssuggestionshistory&quot;&gt;Questions/Suggestions/History&lt;/h2&gt;
+
+&lt;p&gt;“Every matter, and thing, that relates to the city ought to be transacted therein and the persons to whose care they are committed [should be] Residents,” &lt;a href=&quot;https://books.google.com/books?id=o9kRAAAAYAAJ&amp;amp;lpg=PA179&amp;amp;ots=wSJrUDImHe&amp;amp;dq=Every%20matter%2C%20and%20thing%2C%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&amp;amp;pg=PA179#v=onepage&amp;amp;q=Every%20matter,%20and%20thing,%20that%20relates%20to%20the%20city%20ought%20to%20be%20transacted%20therein%20and%20the%20persons%20to%20whose%20care%20they%20are%20committed&amp;amp;f=false&quot;&gt;wrote George Washington in 1796&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do local officers make better officers?&lt;/p&gt;
+
+&lt;p&gt;If the NYPD created a non-personally identifiable identifier for each officer and then released aggregate data on firearm discharges, home zip, sex, race, and civil rights complaints we could potential answer these questions. Time for another FOIL request.&lt;/p&gt;
+
+&lt;p&gt;PRESS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;http://www.villagevoice.com/news/interactive-map-shows-where-nypd-officers-live-9249670&lt;/li&gt;
+  &lt;li&gt;https://www.nytimes.com/2016/10/24/nyregion/new-york-today-how-to-build-a-subway-tunnel-boring-machines-second-avenue-subway.html&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="FOIL" /><summary type="html">The NYPD Patrol Guide states that officers must “live in one of the city’s five boroughs or Nassau, Suffolk, Rockland, Westchester, Putnam or Orange counties.”</summary></entry><entry><title type="html">Central Park Cops</title><link href="http://localhost:4000/blog/CentralParkCops" rel="alternate" type="text/html" title="Central Park Cops" /><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><id>http://localhost:4000/blog/CentralParkCops</id><content type="html" xml:base="http://localhost:4000/blog/CentralParkCops">&lt;p&gt;Central Park is closed to vehicles (except the very southern part)&lt;/p&gt;
+
+&lt;p&gt;Police officers have a habit of ignoring this and just driving their private vehicles through the park.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FKWTeMVu0_E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;nypd-response&quot;&gt;NYPD Response&lt;/h2&gt;
+
+&lt;p&gt;I received the below a few weeks after going into the Central Park Precinct.&lt;/p&gt;
+
+&lt;p&gt;HERRERA, EDWARD &lt;a href=&quot;mailto:EDWARD.HERRERA@nypd.org&quot;&gt;EDWARD.HERRERA@nypd.org&lt;/a&gt;            May 19&lt;/p&gt;
+
+&lt;p&gt;This E-mail is in regards to a complaint you had made against PO Valdez driving his private vehicle in Central Park. I Sgt. Herrera spoke with the officer and instructed him  regards to this complaint. The officer is willing to no longer drive his private in Central Private. If you wish to add anything you can e-mail me at Edward.Herrera@NYPD.org&lt;/p&gt;
+
+&lt;p&gt;They still drive their vehicles through the park. Officer Herrera doesn’t respond.&lt;/p&gt;</content><author><name></name></author><summary type="html">Central Park is closed to vehicles (except the very southern part)</summary></entry></feed>
