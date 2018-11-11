@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: Bellcycles vs Penny-Farthing: What are the differences?
+title: Bellcycles vs Penny-Farthing What are the differences?
 tags: Bellcycle
 visible: 1
 ---

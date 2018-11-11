@@ -6,13 +6,13 @@ visible: 1
 ---
 One of the benefits of the Bellcycles design is that the rear pivot allows the rear section of the cycle to be easily swapped out and as long as the height of the pivot remains the same, the cycle rides pretty much the same. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post11/page1.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post12/page1.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post11/page2.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post12/page2.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post11/page3.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post12/page3.jpg" /></div>
 <br>
 So if you are mostly a bicycle commuter but occasionally you need to haul some heavy boxes you could just swap out the rear section of your bike with two bolts and bolt on a cargo back. In this case, I just used a 2x6 piece of wood with an old bmx fork and two small wheels. 
 

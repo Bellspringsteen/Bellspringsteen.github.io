@@ -21,7 +21,7 @@ The battery kit includes a slightly noisy rear rack for mounting the battery. Th
 
 The motor kit includes all the wires you will need and they are already plugged in which is a nice time saver. The motor is heavy. I knew this but I forgot just how heavy. I mounted the motor controller under the rear battery rack. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post13/page3.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post13/page3.jpg" /></div>
 <br>
 
 1. The cycle is fun to ride with the electric motor and that the motor has no problem with no pedaling hurtling you up to speed. 

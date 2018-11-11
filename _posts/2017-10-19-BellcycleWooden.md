@@ -12,11 +12,11 @@ One great thing about NYC is there are a lot of people throwing things away. The
 <br>
 Wood for the taking. I used the Oriented Strand Board (OSB) leaning up against the building and some of the 2x4's. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page2.png" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page2.jpeg" /></div>
 <br>
 I found this jewel in the trash a few months ago. Missing quite a few things but good enough.
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page3.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page3.png" /></div>
 <br>
 The CAD files are on Github ( https://github.com/Bellspringsteen/Bellcycles ) and AutoDesk Fusion360 ( http://a360.co/2yxKDWi )
 
@@ -26,10 +26,10 @@ The design is similarish to the aluminum bellcycle bikes. It has the front frame
 
 #Processing the Trash Bike
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page4.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page4.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page5.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page5.jpg" /></div>
 <br>
 From the trash bike we are going to need
 
@@ -43,41 +43,41 @@ From the trash bike we are going to need
 8. Headset
 9. The top threaded tube from the fork. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page6.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page6.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page7.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page7.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page8.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page8.jpg" /></div>
 <br>
 I printed out the shapes of the center frame pieces and laid them out on scrap pieces of wood. Cut them out. Made some poor joinery and glued the whole section together. 
 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page9.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page9.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page10.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page10.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page11.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page11.jpg" /></div>
 <br>
 I laid out the dimensions of the rear and front frame on the OSB. The OSB was .5 inch and I ended up doubling the width. I cut out and glued together the pieces. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page12.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page12.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page13.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page13.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page14.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page14.jpg" /></div>
 <br>
 I assembled all the pieces. I used a lot of drywall screws in lieu of glue which I ran out of. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page15.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page15.jpg" /></div>
 <br>
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page16.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post14/page16.jpg" /></div>
 <br>
 <iframe width="1012" height="569" src="https://www.youtube.com/embed/4WosLX6GZ-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 1. The wooden bearing caps kept on pulling out of the plywood. I will have to replace them with steel caps and potentially glue the screws in place. 

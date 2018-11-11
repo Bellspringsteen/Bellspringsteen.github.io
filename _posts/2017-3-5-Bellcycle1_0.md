@@ -17,7 +17,7 @@ I downloaded Fusion360 from Autodesk and jumped in. Many modern motorcycles have
 <br>
 So I designed a version of the bellcycle in which the parts are made up of tubes( aluminum, steel, carbon fiber, whatever) are held together by a series of plates with pinch bolts. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post9/page2.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post9/page2.png" /></div>
 <br>
 Without building it, the benefits seemed to be
 
@@ -27,7 +27,7 @@ Without building it, the benefits seemed to be
 4. Modular allowing for different handlebars, positions, angles, tandems, cargo cycles etc. 
 I ordered the metal from onlinemetals.com. Used my hacksaw to cut out the shapes and a drill press with a variety of bits to drill out the required holes. Drilling a 30mm hole through a chunk of aluminum is not easy!! When building the design it became obvious the improvements in the design that were needed to reduce holes, angles, etc. 
 <br>
-<div style="text-align:center"><img src ="../../img/bellcycleblog/post9/page3.jpeg" /></div>
+<div style="text-align:center"><img src ="../../img/bellcycleblog/post9/page3.jpg" /></div>
 <br>
 It works. It is fun to ride. 
 

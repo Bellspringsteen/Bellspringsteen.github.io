@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: Bellcycles vs Bicycle: What are the differences?
+title: Bellcycles vs Bicycle What are the differences?
 tags: Bellcycle
 visible: 1
 ---

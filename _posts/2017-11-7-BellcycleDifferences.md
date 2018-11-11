@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: Comfort
+title: Differences
 tags: Bellcycle
 visible: 1
 ---
