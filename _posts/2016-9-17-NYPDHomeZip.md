@@ -54,9 +54,9 @@ According to the [NYPD Patrol Guide](https://github.com/Bellspringsteen/other.ny
 
 In a post on a police [forum](http://forums.officer.com/t152263/) the following was posted:
 
-![Alt text](../foil/NYPDHomeZip/resources/img/image00.png =1000x)
+![Alt text](../foil/NYPDHomeZip/resources/img/image00.png)
 <br />
-![Alt text](../foil/NYPDHomeZip/resources/img/image01.png =1000x)
+![Alt text](../foil/NYPDHomeZip/resources/img/image01.png)
 
 
 I suspect that the officers who are listed as living and working in the same zip code have false addresses listed, probably the address of the precinct where they work. (And of course, other officers may also have false addresses listed.) 
