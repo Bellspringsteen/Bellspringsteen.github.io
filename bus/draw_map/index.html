@@ -17,9 +17,9 @@
 
         function load_map(access_key) {
             if (access_key){
-                url = 'http://maps.google.com/maps/api/js?key=' + access_key + '&libraries=geometry&amp;sensor=false'
+                url = 'https://maps.google.com/maps/api/js?key=' + access_key + '&libraries=geometry&amp;sensor=false'
             }else{
-                url = 'http://maps.google.com/maps/api/js?libraries=geometry&amp;sensor=false'
+                url = 'https://maps.google.com/maps/api/js?libraries=geometry&amp;sensor=false'
             }
             const parentElement = document.getElementById(`map`); 
             const script = document.createElement(`script`);
