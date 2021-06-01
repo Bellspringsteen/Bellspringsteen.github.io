@@ -15,8 +15,11 @@ My parents now have 3 grandchildren with hopefully more on the way. So we decide
 
 1. Designed bed in Fusion360. All 2x4's.
 2. I used the Kreg Pocket Hole System (<a href="https://amzn.to/34AIQ3F">https://amzn.to/34AIQ3F</a>) with 1.5" coarse screws (<a href="https://amzn.to/34yPV4O">https://amzn.to/34yPV4O</a>). The system makes it pretty easy to screw together 2x4's and make strong and attractive joints. 
-3.  I didnt model out the fasteners, but I should have. If I had I would have thought through the fastening better and placed pocked holes where they couldnt be seen. 
-4. Kreg recommends using fine thread screws for hardwood, but Amazon didnt have the 1.5" fine thread screws. In mahogony the coarse screws worked fine and didnt split the wood. I drilled pilot holes on a few joints where the wood was particularly tough, but otherwise just used the jig without pilot holes. 
+3. Bought the wood, Mahogany, from local building supply. 
+4. Used speed square to measure and mark lines (<a href="https://amzn.to/3vFKX21">https://amzn.to/3vFKX21</a>)  and used ~100$ chop saw from amazon (<a href="https://amzn.to/34CBoFm">https://amzn.to/34CBoFm</a>) to cut the pieces to size from the plans.
+5. Squirted wood glue ( <a href="https://amzn.to/3fFF937">https://amzn.to/3fFF937</a>) into the joints and then tightened the pocket screws, no clamps required.
+Note:  Kreg recommends using fine thread screws for hardwood, but Amazon didnt have the 1.5" fine thread screws. In mahogony the coarse screws worked fine and didnt split the wood. I drilled pilot holes on a few joints where the wood was particularly tough, but otherwise just used the jig without pilot holes. 
+
 
 ## Pics
 
