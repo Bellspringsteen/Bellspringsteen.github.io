@@ -2,3 +2,5 @@ Labs Bell Blog
 
 gem install jekyll
 gem install rdiscount
+bundle exec jekyll serve
+
