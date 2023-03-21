@@ -21,6 +21,24 @@ c. Roughly 14615
 
 
 6. In NYCHA?
+https://www.nychaparking.com/find-a-parking-lot/
+
+a. Bethune Gardens - Lot 01 ( Not sure why the website says this is 105th, I dont think it is)
+b. Douglass Houses - Lot 01 ( 84 spots)
+c. Douglass Houses - Lot 04 ( 44 spots)
+d. Douglass Houses - Lot 03 ( 17 spots)
+e. Douglass Houses - Lot 06 ( 80 spots)
+f. Douglass Houses - Lot 01 (Cant find)
+g. Douglass Houses - Lot 05 (Cant find)
+h. Douglass Houses - Lot 02 (Cant find)
+i. 830 Amsterdam Avenue - Lot 01 (20 spots)
+j. DeHostos - Lot 01 ( 24 spots) 
+k. WSURA Site B (indoor) - Lot 01 ( No idea, its underground, try calling?)
+l. WSURA Site C (indoor) - Lot 01 ( No idea, its underground, try calling?)
+m. Wise Towers (indoor) - Lot 01 ( 60 spots, is this the garage under the basketball court?)
+n. Amsterdam Addition (Indoor) - Lot 01 (No idea, try calling)
+o. Amsterdam Houses - Lot 01 - (100 spots)
+
 7. How many restricted curb parking spots?
 8. How many spots are there for teachers?
 9. How many paid curb parking spots?
@@ -37,4 +55,7 @@ c. Roughly 14615
 20. Is there any data on electric charging locations? Gas stations?
 21. How many license plates on UWS are from out of state? 
 22. Types of cars?
-23. Just using google maps satellite, can you see cars in other spots?
+23. Just using google maps satellite, can you see cars in other spots?i
+24. Weird parkings
+a. 240 west 65th street, CONED parking?
+b. 
