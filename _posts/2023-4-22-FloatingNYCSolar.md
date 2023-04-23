@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-title: NYC Floating Solar: Hudson River, Resevoirs, etc
+title: NYC Floating - Solar Hudson River Resevoirs etc
 tags: solar
 visible: 1
 ---
