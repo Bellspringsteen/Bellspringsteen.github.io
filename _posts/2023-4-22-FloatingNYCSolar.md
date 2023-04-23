@@ -4,6 +4,7 @@ title: NYC Floating Solar: Hudson River, Resevoirs, etc
 tags: solar
 visible: 1
 ---
+Hudson River Floating Solar Panels.
 
 Some back of the napkin math 
 
@@ -31,11 +32,10 @@ Assuming 12 watts per square foot, so lets say 1 billion square feet, thats 35 s
 ### Can we float these solar panels?
 https://en.wikipedia.org/wiki/Floating_solar
 
-Hudson River - Half of the hudson river along the side of Manhattan would be 5 square miles. 
+Hudson River - Half of the hudson river along the side of Manhattan would be 5 square miles. Add in parts of east river, the bay, etc and you could get close to 35 square miles.
 
 Jamaica Bay - 24 square miles
 
 Resevoirs - https://www.nyc.gov/html/nycwater/html/drinking/reservoir.shtml NYC resevoirs which are closed to motorized boats are about 25 square miles in surface area.
 
 Long Island Sound- Easily fit a 35 square mile section
-
