@@ -5,12 +5,18 @@ tags: cb7
 visible: 1
 ---
 
-Over the next few weeks, I am going to try to answer some questions.
+WIP 
+
+Has some data https://journals.sagepub.com/doi/full/10.1177/0739456X221141317
 
 1. How many cars?
 2. How many private parking spots?
 3. In small buildings? Like curb cuts for single family?
+a. 138 West 83rd street - Jerry Seinfelds Cars (https://observer.com/2002/03/seinfeld-builds-a-parking-lot/) (20 spots) :) 
+b. 
 4. In large buildings? Check streeteasy for building perk.
+a. 365 West End Avenue ( Curb cut and have seen parking, under section between buildings)
+b. 
 5. How many parking garage spots = 14615
 
 There are 14615 allowable parking spots in commercial parking garages in CB7. 
@@ -58,4 +64,4 @@ o. Amsterdam Houses - Lot 01 - (100 spots)
 23. Just using google maps satellite, can you see cars in other spots?i
 24. Weird parkings
 a. 240 west 65th street, CONED parking?
-b. 
+ 
