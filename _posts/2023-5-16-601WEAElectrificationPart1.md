@@ -78,7 +78,7 @@ For existing central A/C apartments:
 For PTAC apartments:
 * Install slim cassettes in the drop ceiling emulating the vents in other apartments. Match vent style as close as possible. 
 * Connect lines to cassettes and back to box and then to roof heat pump
-* Install a thermostat ( use locations from existing apartments, generally goal is for all apartments to be similar.
+* Install a thermostat, use locations from existing apartments, generally goal is for all apartments to be similar.
 * Keep the old PTAC in place for now ( to lower costs), next time facade work is happening, brick up and insulate all the PTAC holes and remove PTACs.
 
 General
