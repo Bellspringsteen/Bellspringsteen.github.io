@@ -4,3 +4,7 @@ gem install jekyll
 gem install rdiscount
 bundle exec jekyll serve
 
+
+# TAGS on posts
+Run 'bundle exec jekyll serve'
+delete the /tags directory and replace it with the new directory from /site/tags/
