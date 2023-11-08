@@ -117,3 +117,5 @@ How can I do cheaper shipping and logistics? I really want to sell the shoes for
 1. how to market
 2. European shoes sizes? US shoe size? Are people confused? 
 3. Sell on Amazon
+4. What if all sellers detailed how much cost went into each product?
+5. What about price philosophy, will a cheaper pair of shoes never sell well because people will assume they must not be good.
