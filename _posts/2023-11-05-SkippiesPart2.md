@@ -88,10 +88,10 @@ So how to get the shoes to customers? The shoes are packaged in boxes with no ba
 <br>
 * Amazon FBA ( https://sell.amazon.com/fulfillment-by-amazon ) good option, EXCEPT. When shipping to the US, going to cost about 1-2$ per pair for Less than Container Load. US tarrif is 30% on shoes, so thats another ~1$. Then I have to pay Amazon to store and fullfill. By my estimates, I am already approaching 20$ if not more. With a higher risk, if they sell slowly, Amazon will slowly drain my bank account charging storage fees.
 * ShipBob aka US fullfillment - Could go with a slightly cheaper US solution like ShipBob. However, calculating the prices. Seems equally expensive. 
-* NextSmartShip aka China fullfillment  ( Affiliate link) This is the option I went with. Fullfillment from china keeps the upfront costs cheap. Storage is cheap. The shipping is about 7 days to the US. 
+* NextSmartShip aka China fullfillment  ( <a href="fulfillship.nextsmartship.com/landing/index.html?nsid=12883">Affiliate link </a>) This is the option I went with. Fullfillment from china keeps the upfront costs cheap. Storage is cheap. The shipping is about 7 days to the US. 
 <br>
 
-Went with NextSmartShip for now. So far ok. The software is ok, not amazing. You connect it to Shopify. Its still a little manual, once again if you just WeChat your contact everything goes smoother. They put barcodes, sorted, checked merchandise.
+Went with <a href="fulfillship.nextsmartship.com/landing/index.html?nsid=12883"> NextSmartShip </a> for now. So far ok. The software is ok, not amazing. You connect it to Shopify. Its still a little manual, once again if you just WeChat your contact everything goes smoother. They put barcodes, sorted, checked merchandise.
 <br>
 They charge us about $2 to put barcodes, sort, and setup. Then the shipping is about 9$ to the US and similar to Euroupe ( International shippers, buy a pair! I want to see what shipping is like to Japan or India or Argentina)
 <br>
@@ -111,6 +111,15 @@ Currently on sale for $20 with free shipping. Maybe this is too low. How am I go
 <br>
 How can I do cheaper shipping and logistics? I really want to sell the shoes for 9$ with free shipping. That would be sick. 
 <br>
+
+## Is this allowed? 
+
+On instagram, lots of people seem to be suggesting we are committing some faux pas. I am working with the original Dafu Rubber as a partner. International LLC of Florida  has a trademark on the name https://trademarks.justia.com/874/10/feiyue-87410302.html Feiyue, but our shoes dont say that .... 
+<br>
+<br>
+The original Dafu 501s are amazing. We just want to help Mr. Liu so that everyone can get the original 501s.
+<br>
+
 
 ## NEXT:
 
