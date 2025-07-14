@@ -10,7 +10,7 @@ visible: 1
 TLDR: Got better drop stitch material, now it really flies well! 
 
 <iframe width="315" height="560"
-src="https://www.youtube.com/embed/etC2IrYUyDo?si=Y_YmFpVxl7CYjiJw
+src="https://www.youtube.com/embed/etC2IrYUyDo?si=Y_YmFpVxl7CYjiJw"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -22,11 +22,11 @@ For 1.1, clearly I needed better drop stitch material. Will and Jay from (https:
 
 As a relative RC Airplane n00b, I went for a simple shape thats probably not optimal. Better would be more sweep, more thought to CG location. <br><br>
 
-<img src ="../img/inflatoplane11drawing.jpg" width=100/>
+<img src ="../img/inflatoplane11drawing.jpg" width=500/>
 
-<img src ="../img/inflatoplane11_1.jpg" width=100/>
-<img src ="../img/inflatoplane11_2.jpg" width=100/>
-<img src ="../img/inflatoplane11_3.jpg" width=100/>
+<img src ="../img/inflatoplane11_1.jpg" width=500/>
+<img src ="../img/inflatoplane11_2.jpg" width=500/>
+<img src ="../img/inflatoplane11_3.jpg" width=500/>
 
 ## Engine/Electronics Box
 <br><br>
