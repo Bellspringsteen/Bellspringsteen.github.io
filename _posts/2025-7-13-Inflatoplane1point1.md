@@ -9,7 +9,7 @@ visible: 1
 
 TLDR: Got better drop stitch material, now it really flies well! 
 
-<iframe width="315" height="560"
+<iframe width="600" height="400"
 src="https://www.youtube.com/embed/etC2IrYUyDo?si=Y_YmFpVxl7CYjiJw"
 title="YouTube video player"
 frameborder="0"
