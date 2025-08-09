@@ -38,13 +38,13 @@ First I tried was super capacitors. Super caps should last a really long time, h
 <br>
 <div style="text-align:center"><img src ="../img/solarthingoutside.jpg" width=600/> </div>
 5 Watt solar panel on plastic box
-<div style="text-align:center"><img src ="../img/solarthingindside.jpg" width=600/> </div>
+<div style="text-align:center"><img src ="../img/solarthinginside.jpg" width=600/> </div>
 Inside box
 <br>
 What I ended up doing was just putting a 18650 cell protected by both a overvoltage and undervoltage protection i.e. on the solar panel input and on the discharge to the esp32.  And I am not using any fancy MPPT controller to maximize charging, just taking the solar panel voltage direct to battery. The solar panel is a simple 5 watt unit, i think 3v or 5v.
 <br> 
 I have voltage sensing of both the solar panel voltage (through a voltage divider) and battery voltage. And then the code just wakes up the esp32 from deep sleep, reads analog voltages, and sends it to influxdb cloud free tier. And just like the other graphs, i can see the daily charging and discharging of the battery and also any daily fluctuations in true solar energy. 
-<div style="text-align:center"><img src ="../img/influxdb.jpg" width=600/> </div>
+<div style="text-align:center"><img src ="../img/influxdb.png" width=600/> </div>
 InfluxDB Cloud
 
 ## Code
